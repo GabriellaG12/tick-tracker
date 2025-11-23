@@ -19,7 +19,7 @@ function getSeverityColor(count, maxCount) {
 
 // --- Load sightings and setup ---
 (async function () {
-    sightings = await window.fetchAllSightings();
+    sightings = await window.fetchAllSightings(); // load from localStorage
 
     // Populate species dropdown dynamically
     const speciesSet = new Set(sightings.map(s => s.species));
@@ -59,12 +59,13 @@ function renderMarkersAndResults(filteredSightings) {
 
     // --- Map markers ---
     Object.entries(cityCounts).forEach(([city, count]) => {
-        const coords = cityCoordinates[city];
+        // Use a fixed coordinate if cityCoordinates exists
+        const coords = cityCoordinates?.[city] || [54.5, -3]; // fallback if city not in coordinates
         if (!coords) return;
 
         const marker = L.circleMarker(coords, {
             radius: 10,
-            fillColor: filteredCitySeverity[city], // always use precomputed colors
+            fillColor: filteredCitySeverity[city] || "green",
             color: "#000",
             weight: 1,
             opacity: 1,
@@ -72,18 +73,11 @@ function renderMarkersAndResults(filteredSightings) {
         })
         .addTo(map)
         .bindPopup(`<strong>${city}</strong><br>Cases: ${count}`)
-        .bindTooltip(`${count} cases`, {permanent: false, direction: "top"}); // <-- Tooltip on hover
+        .bindTooltip(`${count} cases`, {permanent: false, direction: "top"});
 
-        // Click toggles city filter
         marker.on("click", () => {
-            if (cityFilter === city) {
-                // Click same city again -> reset
-                cityFilter = null;
-                applyFilters(false); // false = don't recalc severity
-            } else {
-                cityFilter = city;
-                applyFilters(false); // false = don't recalc severity
-            }
+            cityFilter = cityFilter === city ? null : city;
+            applyFilters(false);
         });
 
         allMarkers.push(marker);
@@ -118,7 +112,6 @@ function recalcSeverity(baseSightings) {
     });
     const maxCount = Math.max(...Object.values(cityCounts), 1);
 
-    // Recalculate severity
     filteredCitySeverity = {};
     for (const [city, count] of Object.entries(cityCounts)) {
         filteredCitySeverity[city] = getSeverityColor(count, maxCount);
@@ -132,14 +125,11 @@ function applyFilters(recalcSeverityFlag = true) {
     const dateRange = document.getElementById("filter-date").value;
     const today = new Date();
 
-    // Filter by species/date first
     let filtered = sightings.filter(s => {
         let keep = true;
 
-        // Species filter
         if (species) keep = keep && (s.species === species);
 
-        // Date range filter
         if (dateRange) {
             const sightDate = new Date(s.date);
             if (dateRange === "1m") keep = keep && (today - sightDate <= 30*24*60*60*1000);
@@ -148,21 +138,18 @@ function applyFilters(recalcSeverityFlag = true) {
             if (dateRange === "more") keep = keep && (today - sightDate > 2*365*24*60*60*1000);
         }
 
-        // City filter toggle
         if (cityFilter) keep = keep && (s.city === cityFilter);
 
         return keep;
     });
 
-    // Recalculate severity only if recalcSeverityFlag is true
     if (recalcSeverityFlag) {
         recalcSeverity(filtered);
     }
 
-    // Severity filter (does not recalc colors)
     if (severityFilter) {
         filtered = filtered.filter(s => {
-            const sev = filteredCitySeverity[s.city]; // use precomputed
+            const sev = filteredCitySeverity[s.city];
             if (severityFilter === "low") return sev === "green";
             if (severityFilter === "medium") return sev === "orange";
             if (severityFilter === "high") return sev === "red";
@@ -174,5 +161,17 @@ function applyFilters(recalcSeverityFlag = true) {
 
 // --- Apply filters button ---
 document.getElementById("apply-filters").addEventListener("click", () => {
-    applyFilters(true); // true = recalc severity based on species/date
+    applyFilters(true);
 });
+
+window.fetchAllSightings = async function () {
+    try {
+        const response = await fetch("http://localhost:3000/api");
+        const data = await response.json();
+        console.log("Loaded sightings from API:", data);
+        return data;
+    } catch (err) {
+        console.error("Error loading sightings from API:", err);
+        return [];
+    }
+};

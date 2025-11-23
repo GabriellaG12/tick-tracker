@@ -1,9 +1,11 @@
 window.fetchAllSightings = async function () {
-    console.log("Loading local sightings.json…");
-
-    const response = await fetch("./js/sightings.json");
-    const data = await response.json();
-
-    console.log("Local JSON loaded:", data);
-    return data;
+    try {
+        const response = await fetch("http://localhost:3000/api");
+        const data = await response.json();
+        console.log("Loaded sightings:", data);
+        return data;
+    } catch (err) {
+        console.error("Error loading API:", err);
+        return [];
+    }
 };

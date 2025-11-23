@@ -20,18 +20,16 @@
                 <input type="date" id="sighting-date" required>
             </label>
             <label>
-                Time:
-                <input type="time" id="sighting-time" required>
-            </label>
-            <label>
                 Location (City):
-                <select id="sighting-city" required>
-                    <option value="">Select city</option>
-                </select>
+                <input type="text" id="sighting-city" placeholder="Enter city" required>
             </label>
             <label>
                 Species:
-                <input type="text" id="sighting-species" required>
+                <input type="text" id="sighting-species" placeholder="Enter species" required>
+            </label>
+            <label>
+                Latin Name:
+                <input type="text" id="sighting-latin" placeholder="Enter latin name" required>
             </label>
             <button type="submit">Submit Sighting</button>
         </form>
@@ -39,48 +37,53 @@
         <div id="form-message" class="hidden"></div>
 
         <button onclick="window.location.href='index.html'" class="back-button">
-    Back to Map
-</button>
+            Back to Map
+        </button>
 
     </div>
 </main>
 
-<script src="js/cityCoordinates.js"></script>
 <script>
-    // Populate city dropdown
-    const citySelect = document.getElementById("sighting-city");
-    Object.keys(cityCoordinates).forEach(city => {
-        const option = document.createElement("option");
-        option.value = city;
-        option.textContent = city;
-        citySelect.appendChild(option);
-    });
+document.getElementById("report-form").addEventListener("submit", async function(e) {
+    e.preventDefault();
+    const date = document.getElementById("sighting-date").value;
+    const city = document.getElementById("sighting-city").value.trim();
+    const species = document.getElementById("sighting-species").value.trim();
+    const latinName = document.getElementById("sighting-latin").value.trim();
+    const messageDiv = document.getElementById("form-message");
 
-    // Form validation
-    document.getElementById("report-form").addEventListener("submit", function(e) {
-        e.preventDefault();
-        const date = document.getElementById("sighting-date").value;
-        const time = document.getElementById("sighting-time").value;
-        const city = document.getElementById("sighting-city").value;
-        const species = document.getElementById("sighting-species").value;
-        const messageDiv = document.getElementById("form-message");
-
-        if (!date || !time || !city || !species) {
-            messageDiv.textContent = "⚠ Please fill in all fields.";
-            messageDiv.style.color = "orange";
-            messageDiv.classList.remove("hidden");
-            return;
-        }
-
-        // Placeholder for saving to database
-        console.log({date, time, city, species});
-
-        messageDiv.textContent = "✔ Sighting reported successfully!";
-        messageDiv.style.color = "green";
+    if (!date || !city || !species || !latinName) {
+        messageDiv.textContent = "⚠ Please fill in all fields.";
+        messageDiv.style.color = "orange";
         messageDiv.classList.remove("hidden");
+        return;
+    }
 
-        this.reset();
-    });
+    try {
+        const response = await fetch("http://localhost:3000/api", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ date, city, species, latinName })
+        });
+
+        const result = await response.json();
+        if (result.success) {
+            messageDiv.textContent = "✔ Sighting reported successfully!";
+            messageDiv.style.color = "green";
+            messageDiv.classList.remove("hidden");
+            this.reset();
+        } else {
+            messageDiv.textContent = "⚠ Error submitting sighting.";
+            messageDiv.style.color = "red";
+            messageDiv.classList.remove("hidden");
+        }
+    } catch (err) {
+        console.error(err);
+        messageDiv.textContent = "⚠ Failed to submit sighting.";
+        messageDiv.style.color = "red";
+        messageDiv.classList.remove("hidden");
+    }
+});
 </script>
 
 </body>
