@@ -1,0 +1,163 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Tick Tracker</title>
+
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+
+    <!-- App CSS -->
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+<header class="topbar">
+    <h1>UK Tick Tracker</h1>
+</header>
+
+<main class="layout">
+
+    <!-- LEFT: MAP -->
+    <div id="map"></div>
+
+    <!-- RIGHT PANEL -->
+    <div id="right-panel">
+
+        <!-- FILTER CONTROLS -->
+        <div id="filters" class="filters">
+            <label>
+                Date Range:
+                <select id="filter-date">
+                    <option value="">All</option>
+                    <option value="1m">Last Month</option>
+                    <option value="1y">Last Year</option>
+                    <option value="2y">Last 2 Years</option>
+                    <option value="more">More</option>
+                </select>
+            </label>
+            <label>
+                Species:
+                <select id="filter-species">
+                    <option value="">All</option>
+                </select>
+            </label>
+            <label>
+                Severity:
+                <select id="filter-severity">
+                    <option value="">All</option>
+                    <option value="low">Low (green)</option>
+                    <option value="medium">Medium (orange)</option>
+                    <option value="high">High (red)</option>
+                </select>
+            </label>
+            <button id="apply-filters">Apply Filters</button>
+        </div>
+
+        <!-- RESULTS SECTION -->
+        <div id="results">
+            <h3>Results</h3>
+            <div id="results-list"></div>
+        </div>
+
+        <!-- Tabs -->
+        <div class="tabs">
+            <button class="tab active" data-tab="guide">Species Guide</button>
+            <button class="tab" data-tab="prevention">Prevention Tips</button>
+            <button class="tab" data-tab="report">Quick Actions</button>
+        </div>
+
+        <!-- Tab Content -->
+        <div id="guide" class="tab-pane active">
+            <h3>Species Identification Guide</h3>
+            <ul>
+                <li><strong>Ixodes ricinus</strong> — Castor bean tick</li>
+                <li><strong>Ixodes hexagonus</strong> — Hedgehog tick</li>
+                <li><strong>Dermacentor reticulatus</strong> — Ornate dog tick</li>
+            </ul>
+        </div>
+
+        <div id="prevention" class="tab-pane">
+            <h3>Prevention Tips</h3>
+            <ol>
+                <li>Use approved tick preventatives for pets year-round.</li>
+                <li>Check pets and people after walking in long grass.</li>
+                <li>Keep grassy areas short.</li>
+            </ol>
+        </div>
+
+        <div id="report" class="tab-pane">
+            <h3>Quick Actions</h3>
+
+             <!-- Quick action buttons -->
+            <div class="quick-actions">
+                <button onclick="alert('Get Directions clicked')">Get Directions</button>
+                <button onclick="alert('Share clicked')">Share</button>
+                <button onclick="window.location.href='report.html'">Report a Sighting</button>
+            </div>
+        </div>
+
+        <!-- DETAILS PANEL -->
+        <div id="details-panel" class="details hidden">
+            <button id="close-details">✕</button>
+            <h2 id="d-city">City</h2>
+            <p><strong>Species:</strong> <span id="d-species"></span></p>
+            <p><strong>Date:</strong> <span id="d-date"></span>
+            <span id="d-recent" class="badge hidden">Recent</span></p>
+            <p><strong>Latin:</strong> <span id="d-latin"></span></p>
+        </div>
+
+    </div> <!-- END right panel -->
+</main>
+
+<footer class="site-footer">Built for Elanco placement task</footer>
+
+<!-- Leaflet JS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+<!-- App JS -->
+<script src="js/cityCoordinates.js"></script>
+<script src="js/api.js"></script>
+<script src="js/ui.js"></script>
+<script src="js/map.js"></script>
+
+<script>
+    // Populate city dropdown in report form
+    const citySelect = document.getElementById("sighting-city");
+    Object.keys(cityCoordinates).forEach(city => {
+        const option = document.createElement("option");
+        option.value = city;
+        option.textContent = city;
+        citySelect.appendChild(option);
+    });
+
+    // Form validation and submission
+    document.getElementById("report-form").addEventListener("submit", function(e) {
+        e.preventDefault();
+        const date = document.getElementById("sighting-date").value;
+        const time = document.getElementById("sighting-time").value;
+        const city = document.getElementById("sighting-city").value;
+        const species = document.getElementById("sighting-species").value;
+        const messageDiv = document.getElementById("form-message");
+
+        if (!date || !time || !city || !species) {
+            messageDiv.textContent = "⚠ Please fill in all fields.";
+            messageDiv.style.color = "orange";
+            messageDiv.classList.remove("hidden");
+            return;
+        }
+
+        // Here you would normally send data to your database
+        console.log({date, time, city, species});
+
+        messageDiv.textContent = "✔ Sighting reported successfully!";
+        messageDiv.style.color = "green";
+        messageDiv.classList.remove("hidden");
+
+        this.reset();
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Report a Sighting</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="topbar">
+    <h1>Report a Sighting</h1>
+</header>
+
+<main class="layout-report">
+    <div class="report-container">
+
+        <form id="report-form">
+            <label>
+                Date:
+                <input type="date" id="sighting-date" required>
+            </label>
+            <label>
+                Time:
+                <input type="time" id="sighting-time" required>
+            </label>
+            <label>
+                Location (City):
+                <select id="sighting-city" required>
+                    <option value="">Select city</option>
+                </select>
+            </label>
+            <label>
+                Species:
+                <input type="text" id="sighting-species" required>
+            </label>
+            <button type="submit">Submit Sighting</button>
+        </form>
+
+        <div id="form-message" class="hidden"></div>
+
+        <button onclick="window.location.href='index.html'" class="back-button">
+    Back to Map
+</button>
+
+    </div>
+</main>
+
+<script src="js/cityCoordinates.js"></script>
+<script>
+    // Populate city dropdown
+    const citySelect = document.getElementById("sighting-city");
+    Object.keys(cityCoordinates).forEach(city => {
+        const option = document.createElement("option");
+        option.value = city;
+        option.textContent = city;
+        citySelect.appendChild(option);
+    });
+
+    // Form validation
+    document.getElementById("report-form").addEventListener("submit", function(e) {
+        e.preventDefault();
+        const date = document.getElementById("sighting-date").value;
+        const time = document.getElementById("sighting-time").value;
+        const city = document.getElementById("sighting-city").value;
+        const species = document.getElementById("sighting-species").value;
+        const messageDiv = document.getElementById("form-message");
+
+        if (!date || !time || !city || !species) {
+            messageDiv.textContent = "⚠ Please fill in all fields.";
+            messageDiv.style.color = "orange";
+            messageDiv.classList.remove("hidden");
+            return;
+        }
+
+        // Placeholder for saving to database
+        console.log({date, time, city, species});
+
+        messageDiv.textContent = "✔ Sighting reported successfully!";
+        messageDiv.style.color = "green";
+        messageDiv.classList.remove("hidden");
+
+        this.reset();
+    });
+</script>
+
+</body>
+</html>

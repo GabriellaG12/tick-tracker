@@ -1,0 +1,7002 @@
+[
+  {
+    "id": 1,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2022-08-01"
+  },
+  {
+    "id": 2,
+    "city": "London",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2014-09-12"
+  },
+  {
+    "id": 3,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-03-17"
+  },
+  {
+    "id": 4,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2019-02-20"
+  },
+  {
+    "id": 5,
+    "city": "Southampton",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-11-30"
+  },
+  {
+    "id": 6,
+    "city": "Glasgow",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-09-19"
+  },
+  {
+    "id": 7,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-07-20"
+  },
+  {
+    "id": 8,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-02-03"
+  },
+  {
+    "id": 9,
+    "city": "Sheffield",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-06-12"
+  },
+  {
+    "id": 10,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-01-30"
+  },
+  {
+    "id": 11,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-09-02"
+  },
+  {
+    "id": 12,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2020-07-03"
+  },
+  {
+    "id": 13,
+    "city": "London",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2020-10-19"
+  },
+  {
+    "id": 14,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2016-09-16"
+  },
+  {
+    "id": 15,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-12-19"
+  },
+  {
+    "id": 16,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-12-26"
+  },
+  {
+    "id": 17,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-09-20"
+  },
+  {
+    "id": 18,
+    "city": "Leicester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2024-04-17"
+  },
+  {
+    "id": 19,
+    "city": "Glasgow",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-07-19"
+  },
+  {
+    "id": 20,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-03-22"
+  },
+  {
+    "id": 21,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-03-06"
+  },
+  {
+    "id": 22,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2016-03-19"
+  },
+  {
+    "id": 23,
+    "city": "Manchester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2020-09-05"
+  },
+  {
+    "id": 24,
+    "city": "London",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-05-02"
+  },
+  {
+    "id": 25,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-10-21"
+  },
+  {
+    "id": 26,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-06-27"
+  },
+  {
+    "id": 27,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-12-08"
+  },
+  {
+    "id": 28,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-07-20"
+  },
+  {
+    "id": 29,
+    "city": "Leicester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-08-22"
+  },
+  {
+    "id": 30,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-06-11"
+  },
+  {
+    "id": 31,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-03-10"
+  },
+  {
+    "id": 32,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-05-23"
+  },
+  {
+    "id": 33,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2024-07-08"
+  },
+  {
+    "id": 34,
+    "city": "Edinburgh",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2014-08-13"
+  },
+  {
+    "id": 35,
+    "city": "Southampton",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-04-17"
+  },
+  {
+    "id": 36,
+    "city": "Glasgow",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2020-12-20"
+  },
+  {
+    "id": 37,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2013-12-08"
+  },
+  {
+    "id": 38,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2013-09-20"
+  },
+  {
+    "id": 39,
+    "city": "Manchester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2017-01-25"
+  },
+  {
+    "id": 40,
+    "city": "Bristol",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-03-07"
+  },
+  {
+    "id": 41,
+    "city": "Southampton",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-09-19"
+  },
+  {
+    "id": 42,
+    "city": "Manchester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2023-11-21"
+  },
+  {
+    "id": 43,
+    "city": "Nottingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2018-02-05"
+  },
+  {
+    "id": 44,
+    "city": "Bristol",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2023-03-20"
+  },
+  {
+    "id": 45,
+    "city": "Birmingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-07-05"
+  },
+  {
+    "id": 46,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2023-03-01"
+  },
+  {
+    "id": 47,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-03-28"
+  },
+  {
+    "id": 48,
+    "city": "Liverpool",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-01-06"
+  },
+  {
+    "id": 49,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2019-02-01"
+  },
+  {
+    "id": 50,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2017-12-27"
+  },
+  {
+    "id": 51,
+    "city": "Cardiff",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-06-20"
+  },
+  {
+    "id": 52,
+    "city": "Cardiff",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-09-03"
+  },
+  {
+    "id": 53,
+    "city": "Southampton",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-02-07"
+  },
+  {
+    "id": 54,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2019-10-15"
+  },
+  {
+    "id": 55,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2016-04-21"
+  },
+  {
+    "id": 56,
+    "city": "Glasgow",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2016-04-03"
+  },
+  {
+    "id": 57,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-07-04"
+  },
+  {
+    "id": 58,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2014-09-17"
+  },
+  {
+    "id": 59,
+    "city": "Southampton",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2024-09-12"
+  },
+  {
+    "id": 60,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2020-11-09"
+  },
+  {
+    "id": 61,
+    "city": "London",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-04-19"
+  },
+  {
+    "id": 62,
+    "city": "Leicester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-06-08"
+  },
+  {
+    "id": 63,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-10-23"
+  },
+  {
+    "id": 64,
+    "city": "Edinburgh",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-07-29"
+  },
+  {
+    "id": 65,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2022-07-03"
+  },
+  {
+    "id": 66,
+    "city": "Manchester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-01-26"
+  },
+  {
+    "id": 67,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2013-08-08"
+  },
+  {
+    "id": 68,
+    "city": "Edinburgh",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2022-05-10"
+  },
+  {
+    "id": 69,
+    "city": "Liverpool",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-06-13"
+  },
+  {
+    "id": 70,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2018-11-25"
+  },
+  {
+    "id": 71,
+    "city": "Southampton",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-12-09"
+  },
+  {
+    "id": 72,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2024-10-23"
+  },
+  {
+    "id": 73,
+    "city": "London",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-02-25"
+  },
+  {
+    "id": 74,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2014-04-17"
+  },
+  {
+    "id": 75,
+    "city": "Edinburgh",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-02-11"
+  },
+  {
+    "id": 76,
+    "city": "Birmingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2018-03-11"
+  },
+  {
+    "id": 77,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-08-11"
+  },
+  {
+    "id": 78,
+    "city": "Cardiff",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-04-21"
+  },
+  {
+    "id": 79,
+    "city": "Leeds",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2024-04-20"
+  },
+  {
+    "id": 80,
+    "city": "Cardiff",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-05-20"
+  },
+  {
+    "id": 81,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-12-06"
+  },
+  {
+    "id": 82,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2020-07-12"
+  },
+  {
+    "id": 83,
+    "city": "Nottingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-02-27"
+  },
+  {
+    "id": 84,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2022-06-29"
+  },
+  {
+    "id": 85,
+    "city": "Bristol",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2020-06-25"
+  },
+  {
+    "id": 86,
+    "city": "Edinburgh",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-08-03"
+  },
+  {
+    "id": 87,
+    "city": "Leicester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2020-08-19"
+  },
+  {
+    "id": 88,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-05-19"
+  },
+  {
+    "id": 89,
+    "city": "Birmingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-07-04"
+  },
+  {
+    "id": 90,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-10-12"
+  },
+  {
+    "id": 91,
+    "city": "London",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2019-09-22"
+  },
+  {
+    "id": 92,
+    "city": "Leeds",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-08-08"
+  },
+  {
+    "id": 93,
+    "city": "Birmingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-04-27"
+  },
+  {
+    "id": 94,
+    "city": "Southampton",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2017-07-11"
+  },
+  {
+    "id": 95,
+    "city": "Glasgow",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2012-05-11"
+  },
+  {
+    "id": 96,
+    "city": "Sheffield",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-08-20"
+  },
+  {
+    "id": 97,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-01-17"
+  },
+  {
+    "id": 98,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2013-07-11"
+  },
+  {
+    "id": 99,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2016-06-09"
+  },
+  {
+    "id": 100,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-07-17"
+  },
+  {
+    "id": 101,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2019-04-22"
+  },
+  {
+    "id": 102,
+    "city": "Cardiff",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2020-03-24"
+  },
+  {
+    "id": 103,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2018-02-09"
+  },
+  {
+    "id": 104,
+    "city": "Sheffield",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-03-23"
+  },
+  {
+    "id": 105,
+    "city": "Leicester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-09-27"
+  },
+  {
+    "id": 106,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-04-08"
+  },
+  {
+    "id": 107,
+    "city": "Birmingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-03-19"
+  },
+  {
+    "id": 108,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2014-03-12"
+  },
+  {
+    "id": 109,
+    "city": "Sheffield",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2020-01-13"
+  },
+  {
+    "id": 110,
+    "city": "London",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-07-30"
+  },
+  {
+    "id": 111,
+    "city": "Newcastle",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-10-02"
+  },
+  {
+    "id": 112,
+    "city": "Leicester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2021-01-19"
+  },
+  {
+    "id": 113,
+    "city": "Edinburgh",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2013-07-18"
+  },
+  {
+    "id": 114,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-03-29"
+  },
+  {
+    "id": 115,
+    "city": "London",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-08-24"
+  },
+  {
+    "id": 116,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-07-02"
+  },
+  {
+    "id": 117,
+    "city": "Newcastle",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2018-01-27"
+  },
+  {
+    "id": 118,
+    "city": "Birmingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-03-28"
+  },
+  {
+    "id": 119,
+    "city": "Sheffield",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-06-25"
+  },
+  {
+    "id": 120,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2023-09-17"
+  },
+  {
+    "id": 121,
+    "city": "Edinburgh",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2017-11-26"
+  },
+  {
+    "id": 122,
+    "city": "Newcastle",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2024-08-22"
+  },
+  {
+    "id": 123,
+    "city": "Bristol",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2017-12-27"
+  },
+  {
+    "id": 124,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-04-03"
+  },
+  {
+    "id": 125,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-02-25"
+  },
+  {
+    "id": 126,
+    "city": "Southampton",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2021-10-29"
+  },
+  {
+    "id": 127,
+    "city": "Glasgow",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2021-10-16"
+  },
+  {
+    "id": 128,
+    "city": "Southampton",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-03-09"
+  },
+  {
+    "id": 129,
+    "city": "Sheffield",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2022-10-04"
+  },
+  {
+    "id": 130,
+    "city": "Glasgow",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2024-12-30"
+  },
+  {
+    "id": 131,
+    "city": "Leicester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2013-03-29"
+  },
+  {
+    "id": 132,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2017-06-30"
+  },
+  {
+    "id": 133,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-12-04"
+  },
+  {
+    "id": 134,
+    "city": "Newcastle",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2022-08-21"
+  },
+  {
+    "id": 135,
+    "city": "Birmingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2023-12-11"
+  },
+  {
+    "id": 136,
+    "city": "Leicester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-03-19"
+  },
+  {
+    "id": 137,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-08-10"
+  },
+  {
+    "id": 138,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-06-16"
+  },
+  {
+    "id": 139,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2024-04-30"
+  },
+  {
+    "id": 140,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2022-11-17"
+  },
+  {
+    "id": 141,
+    "city": "Southampton",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2024-04-11"
+  },
+  {
+    "id": 142,
+    "city": "Newcastle",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2016-09-29"
+  },
+  {
+    "id": 143,
+    "city": "Manchester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2024-04-10"
+  },
+  {
+    "id": 144,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-01-10"
+  },
+  {
+    "id": 145,
+    "city": "Bristol",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-11-09"
+  },
+  {
+    "id": 146,
+    "city": "Sheffield",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-05-03"
+  },
+  {
+    "id": 147,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2023-06-17"
+  },
+  {
+    "id": 148,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2014-12-16"
+  },
+  {
+    "id": 149,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2013-10-31"
+  },
+  {
+    "id": 150,
+    "city": "Liverpool",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-01-18"
+  },
+  {
+    "id": 151,
+    "city": "Southampton",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2018-02-10"
+  },
+  {
+    "id": 152,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2017-06-25"
+  },
+  {
+    "id": 153,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2018-06-19"
+  },
+  {
+    "id": 154,
+    "city": "Southampton",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2021-09-19"
+  },
+  {
+    "id": 155,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2017-07-27"
+  },
+  {
+    "id": 156,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-11-17"
+  },
+  {
+    "id": 157,
+    "city": "Newcastle",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-12-06"
+  },
+  {
+    "id": 158,
+    "city": "Liverpool",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-04-05"
+  },
+  {
+    "id": 159,
+    "city": "Birmingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2018-02-06"
+  },
+  {
+    "id": 160,
+    "city": "Manchester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-02-07"
+  },
+  {
+    "id": 161,
+    "city": "Newcastle",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-02-04"
+  },
+  {
+    "id": 162,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2024-08-04"
+  },
+  {
+    "id": 163,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2024-08-12"
+  },
+  {
+    "id": 164,
+    "city": "Leicester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-05-21"
+  },
+  {
+    "id": 165,
+    "city": "Glasgow",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2016-10-05"
+  },
+  {
+    "id": 166,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2014-04-20"
+  },
+  {
+    "id": 167,
+    "city": "Glasgow",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-10-03"
+  },
+  {
+    "id": 168,
+    "city": "London",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-08-09"
+  },
+  {
+    "id": 169,
+    "city": "Sheffield",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-07-25"
+  },
+  {
+    "id": 170,
+    "city": "Manchester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-05-01"
+  },
+  {
+    "id": 171,
+    "city": "Leicester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2016-09-10"
+  },
+  {
+    "id": 172,
+    "city": "Leicester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-03-04"
+  },
+  {
+    "id": 173,
+    "city": "Liverpool",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-03-14"
+  },
+  {
+    "id": 174,
+    "city": "Southampton",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-12-08"
+  },
+  {
+    "id": 175,
+    "city": "London",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-05-02"
+  },
+  {
+    "id": 176,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2024-10-20"
+  },
+  {
+    "id": 177,
+    "city": "Leeds",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-04-30"
+  },
+  {
+    "id": 178,
+    "city": "Bristol",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-11-18"
+  },
+  {
+    "id": 179,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2014-07-31"
+  },
+  {
+    "id": 180,
+    "city": "Liverpool",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-06-01"
+  },
+  {
+    "id": 181,
+    "city": "Leicester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-12-22"
+  },
+  {
+    "id": 182,
+    "city": "Cardiff",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-04-22"
+  },
+  {
+    "id": 183,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2018-02-08"
+  },
+  {
+    "id": 184,
+    "city": "Bristol",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-12-02"
+  },
+  {
+    "id": 185,
+    "city": "Bristol",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-12-07"
+  },
+  {
+    "id": 186,
+    "city": "London",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-03-14"
+  },
+  {
+    "id": 187,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-03-03"
+  },
+  {
+    "id": 188,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-02-07"
+  },
+  {
+    "id": 189,
+    "city": "Sheffield",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-03-18"
+  },
+  {
+    "id": 190,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2024-12-28"
+  },
+  {
+    "id": 191,
+    "city": "Nottingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-07-27"
+  },
+  {
+    "id": 192,
+    "city": "Leicester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2014-03-31"
+  },
+  {
+    "id": 193,
+    "city": "Leeds",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-12-23"
+  },
+  {
+    "id": 194,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-06-12"
+  },
+  {
+    "id": 195,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-11-21"
+  },
+  {
+    "id": 196,
+    "city": "Newcastle",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-04-28"
+  },
+  {
+    "id": 197,
+    "city": "Cardiff",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-01-09"
+  },
+  {
+    "id": 198,
+    "city": "Glasgow",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-12-23"
+  },
+  {
+    "id": 199,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-12-26"
+  },
+  {
+    "id": 200,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2020-09-21"
+  },
+  {
+    "id": 201,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-02-25"
+  },
+  {
+    "id": 202,
+    "city": "Manchester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2022-11-01"
+  },
+  {
+    "id": 203,
+    "city": "Leicester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2018-05-31"
+  },
+  {
+    "id": 204,
+    "city": "Edinburgh",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-12-05"
+  },
+  {
+    "id": 205,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-03-22"
+  },
+  {
+    "id": 206,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-03-30"
+  },
+  {
+    "id": 207,
+    "city": "Edinburgh",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2020-01-09"
+  },
+  {
+    "id": 208,
+    "city": "Southampton",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-11-05"
+  },
+  {
+    "id": 209,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-05-19"
+  },
+  {
+    "id": 210,
+    "city": "Leeds",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2014-03-18"
+  },
+  {
+    "id": 211,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2014-08-14"
+  },
+  {
+    "id": 212,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-05-22"
+  },
+  {
+    "id": 213,
+    "city": "Leeds",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2022-05-25"
+  },
+  {
+    "id": 214,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2014-06-30"
+  },
+  {
+    "id": 215,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2018-08-27"
+  },
+  {
+    "id": 216,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-02-17"
+  },
+  {
+    "id": 217,
+    "city": "Bristol",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-08-30"
+  },
+  {
+    "id": 218,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2017-12-27"
+  },
+  {
+    "id": 219,
+    "city": "Birmingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2020-12-12"
+  },
+  {
+    "id": 220,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-03-12"
+  },
+  {
+    "id": 221,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-02-22"
+  },
+  {
+    "id": 222,
+    "city": "Leeds",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2014-02-28"
+  },
+  {
+    "id": 223,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-08-31"
+  },
+  {
+    "id": 224,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-11-09"
+  },
+  {
+    "id": 225,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2023-04-12"
+  },
+  {
+    "id": 226,
+    "city": "Glasgow",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2016-04-10"
+  },
+  {
+    "id": 227,
+    "city": "Nottingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-10-08"
+  },
+  {
+    "id": 228,
+    "city": "Leicester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2023-07-28"
+  },
+  {
+    "id": 229,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2016-05-01"
+  },
+  {
+    "id": 230,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-12-19"
+  },
+  {
+    "id": 231,
+    "city": "Sheffield",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-12-17"
+  },
+  {
+    "id": 232,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-02-27"
+  },
+  {
+    "id": 233,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2012-11-22"
+  },
+  {
+    "id": 234,
+    "city": "Sheffield",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2023-04-05"
+  },
+  {
+    "id": 235,
+    "city": "Leeds",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2024-05-17"
+  },
+  {
+    "id": 236,
+    "city": "Newcastle",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2022-05-09"
+  },
+  {
+    "id": 237,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-06-05"
+  },
+  {
+    "id": 238,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-03-22"
+  },
+  {
+    "id": 239,
+    "city": "Glasgow",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2020-11-15"
+  },
+  {
+    "id": 240,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2017-06-27"
+  },
+  {
+    "id": 241,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-02-22"
+  },
+  {
+    "id": 242,
+    "city": "Southampton",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2017-01-04"
+  },
+  {
+    "id": 243,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-04-08"
+  },
+  {
+    "id": 244,
+    "city": "Leeds",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-10-04"
+  },
+  {
+    "id": 245,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-11-02"
+  },
+  {
+    "id": 246,
+    "city": "London",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-12-01"
+  },
+  {
+    "id": 247,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-02-21"
+  },
+  {
+    "id": 248,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-09-12"
+  },
+  {
+    "id": 249,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-08-02"
+  },
+  {
+    "id": 250,
+    "city": "Leeds",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-08-07"
+  },
+  {
+    "id": 251,
+    "city": "Birmingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2018-11-21"
+  },
+  {
+    "id": 252,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2016-01-04"
+  },
+  {
+    "id": 253,
+    "city": "Birmingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2016-04-26"
+  },
+  {
+    "id": 254,
+    "city": "Newcastle",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2013-12-23"
+  },
+  {
+    "id": 255,
+    "city": "Birmingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-07-08"
+  },
+  {
+    "id": 256,
+    "city": "Sheffield",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2020-01-19"
+  },
+  {
+    "id": 257,
+    "city": "London",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-05-11"
+  },
+  {
+    "id": 258,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-12-18"
+  },
+  {
+    "id": 259,
+    "city": "Sheffield",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-03-12"
+  },
+  {
+    "id": 260,
+    "city": "Manchester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-12-26"
+  },
+  {
+    "id": 261,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-02-01"
+  },
+  {
+    "id": 262,
+    "city": "Leicester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-10-03"
+  },
+  {
+    "id": 263,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-02-28"
+  },
+  {
+    "id": 264,
+    "city": "Glasgow",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2017-04-06"
+  },
+  {
+    "id": 265,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-03-30"
+  },
+  {
+    "id": 266,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-06-04"
+  },
+  {
+    "id": 267,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2016-04-03"
+  },
+  {
+    "id": 268,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-06-12"
+  },
+  {
+    "id": 269,
+    "city": "Southampton",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-08-23"
+  },
+  {
+    "id": 270,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-10-14"
+  },
+  {
+    "id": 271,
+    "city": "London",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-02-27"
+  },
+  {
+    "id": 272,
+    "city": "Leicester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2022-01-07"
+  },
+  {
+    "id": 273,
+    "city": "Southampton",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-10-07"
+  },
+  {
+    "id": 274,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-06-26"
+  },
+  {
+    "id": 275,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-10-28"
+  },
+  {
+    "id": 276,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2018-07-17"
+  },
+  {
+    "id": 277,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-04-26"
+  },
+  {
+    "id": 278,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-12-07"
+  },
+  {
+    "id": 279,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2020-11-05"
+  },
+  {
+    "id": 280,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-11-05"
+  },
+  {
+    "id": 281,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2013-10-28"
+  },
+  {
+    "id": 282,
+    "city": "Bristol",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-02-18"
+  },
+  {
+    "id": 283,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-05-10"
+  },
+  {
+    "id": 284,
+    "city": "Leeds",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-12-24"
+  },
+  {
+    "id": 285,
+    "city": "Southampton",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2019-07-15"
+  },
+  {
+    "id": 286,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2016-10-15"
+  },
+  {
+    "id": 287,
+    "city": "Edinburgh",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2022-04-02"
+  },
+  {
+    "id": 288,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-02-28"
+  },
+  {
+    "id": 289,
+    "city": "London",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2023-02-06"
+  },
+  {
+    "id": 290,
+    "city": "Sheffield",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-03-07"
+  },
+  {
+    "id": 291,
+    "city": "Leeds",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-03-28"
+  },
+  {
+    "id": 292,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-01-20"
+  },
+  {
+    "id": 293,
+    "city": "Leicester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-05-04"
+  },
+  {
+    "id": 294,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2020-07-31"
+  },
+  {
+    "id": 295,
+    "city": "London",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2020-06-09"
+  },
+  {
+    "id": 296,
+    "city": "Edinburgh",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-02-20"
+  },
+  {
+    "id": 297,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-07-26"
+  },
+  {
+    "id": 298,
+    "city": "Newcastle",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-06-28"
+  },
+  {
+    "id": 299,
+    "city": "Southampton",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-01-02"
+  },
+  {
+    "id": 300,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-11-19"
+  },
+  {
+    "id": 301,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-12-14"
+  },
+  {
+    "id": 302,
+    "city": "Leeds",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2014-01-13"
+  },
+  {
+    "id": 303,
+    "city": "Leicester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2016-12-01"
+  },
+  {
+    "id": 304,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2017-04-01"
+  },
+  {
+    "id": 305,
+    "city": "Newcastle",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2020-09-21"
+  },
+  {
+    "id": 306,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2019-03-18"
+  },
+  {
+    "id": 307,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-02-20"
+  },
+  {
+    "id": 308,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-05-09"
+  },
+  {
+    "id": 309,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2024-03-30"
+  },
+  {
+    "id": 310,
+    "city": "Cardiff",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2022-02-20"
+  },
+  {
+    "id": 311,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-12-27"
+  },
+  {
+    "id": 312,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-01-05"
+  },
+  {
+    "id": 313,
+    "city": "Leicester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-07-21"
+  },
+  {
+    "id": 314,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2013-09-10"
+  },
+  {
+    "id": 315,
+    "city": "Birmingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-01-27"
+  },
+  {
+    "id": 316,
+    "city": "Leicester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-09-29"
+  },
+  {
+    "id": 317,
+    "city": "Liverpool",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-03-31"
+  },
+  {
+    "id": 318,
+    "city": "Sheffield",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2013-05-04"
+  },
+  {
+    "id": 319,
+    "city": "Leicester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-05-17"
+  },
+  {
+    "id": 320,
+    "city": "London",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-10-20"
+  },
+  {
+    "id": 321,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2017-06-25"
+  },
+  {
+    "id": 322,
+    "city": "Leicester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2024-05-02"
+  },
+  {
+    "id": 323,
+    "city": "Birmingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-01-13"
+  },
+  {
+    "id": 324,
+    "city": "London",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-08-08"
+  },
+  {
+    "id": 325,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-02-28"
+  },
+  {
+    "id": 326,
+    "city": "Sheffield",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-03-15"
+  },
+  {
+    "id": 327,
+    "city": "Edinburgh",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2024-01-06"
+  },
+  {
+    "id": 328,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-02-13"
+  },
+  {
+    "id": 329,
+    "city": "Southampton",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-03-28"
+  },
+  {
+    "id": 330,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-12-10"
+  },
+  {
+    "id": 331,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-10-02"
+  },
+  {
+    "id": 332,
+    "city": "Leeds",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-12-04"
+  },
+  {
+    "id": 333,
+    "city": "Leeds",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-07-19"
+  },
+  {
+    "id": 334,
+    "city": "Southampton",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2016-03-24"
+  },
+  {
+    "id": 335,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-11-12"
+  },
+  {
+    "id": 336,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-10-27"
+  },
+  {
+    "id": 337,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2024-09-28"
+  },
+  {
+    "id": 338,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2018-08-08"
+  },
+  {
+    "id": 339,
+    "city": "Nottingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2022-12-17"
+  },
+  {
+    "id": 340,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-04-02"
+  },
+  {
+    "id": 341,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-01-06"
+  },
+  {
+    "id": 342,
+    "city": "Edinburgh",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2022-05-01"
+  },
+  {
+    "id": 343,
+    "city": "Glasgow",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-08-09"
+  },
+  {
+    "id": 344,
+    "city": "Sheffield",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-07-02"
+  },
+  {
+    "id": 345,
+    "city": "Glasgow",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2023-06-21"
+  },
+  {
+    "id": 346,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2020-02-16"
+  },
+  {
+    "id": 347,
+    "city": "Birmingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-07-01"
+  },
+  {
+    "id": 348,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-03-04"
+  },
+  {
+    "id": 349,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-08-19"
+  },
+  {
+    "id": 350,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2013-10-03"
+  },
+  {
+    "id": 351,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-11-12"
+  },
+  {
+    "id": 352,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2014-07-27"
+  },
+  {
+    "id": 353,
+    "city": "Southampton",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-04-02"
+  },
+  {
+    "id": 354,
+    "city": "Liverpool",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-06-29"
+  },
+  {
+    "id": 355,
+    "city": "Glasgow",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-11-24"
+  },
+  {
+    "id": 356,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-05-03"
+  },
+  {
+    "id": 357,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-03-12"
+  },
+  {
+    "id": 358,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2017-09-09"
+  },
+  {
+    "id": 359,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-04-11"
+  },
+  {
+    "id": 360,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-02-26"
+  },
+  {
+    "id": 361,
+    "city": "Edinburgh",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-10-11"
+  },
+  {
+    "id": 362,
+    "city": "Cardiff",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2022-03-12"
+  },
+  {
+    "id": 363,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2019-04-01"
+  },
+  {
+    "id": 364,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-11-22"
+  },
+  {
+    "id": 365,
+    "city": "Cardiff",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-03-13"
+  },
+  {
+    "id": 366,
+    "city": "Newcastle",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-01-11"
+  },
+  {
+    "id": 367,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-07-13"
+  },
+  {
+    "id": 368,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-07-14"
+  },
+  {
+    "id": 369,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-10-08"
+  },
+  {
+    "id": 370,
+    "city": "Liverpool",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-01-28"
+  },
+  {
+    "id": 371,
+    "city": "Leeds",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-09-13"
+  },
+  {
+    "id": 372,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2019-06-10"
+  },
+  {
+    "id": 373,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-07-28"
+  },
+  {
+    "id": 374,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-01-13"
+  },
+  {
+    "id": 375,
+    "city": "Leicester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-12-26"
+  },
+  {
+    "id": 376,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-12-25"
+  },
+  {
+    "id": 377,
+    "city": "Liverpool",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-07-21"
+  },
+  {
+    "id": 378,
+    "city": "Southampton",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-08-27"
+  },
+  {
+    "id": 379,
+    "city": "Glasgow",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-02-24"
+  },
+  {
+    "id": 380,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-09-22"
+  },
+  {
+    "id": 381,
+    "city": "Southampton",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-08-15"
+  },
+  {
+    "id": 382,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-03-08"
+  },
+  {
+    "id": 383,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-08-28"
+  },
+  {
+    "id": 384,
+    "city": "London",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2023-02-03"
+  },
+  {
+    "id": 385,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2012-10-23"
+  },
+  {
+    "id": 386,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-06-09"
+  },
+  {
+    "id": 387,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2014-08-16"
+  },
+  {
+    "id": 388,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-09-07"
+  },
+  {
+    "id": 389,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-03-05"
+  },
+  {
+    "id": 390,
+    "city": "Newcastle",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-06-12"
+  },
+  {
+    "id": 391,
+    "city": "Southampton",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2024-08-28"
+  },
+  {
+    "id": 392,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-03-30"
+  },
+  {
+    "id": 393,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2014-09-12"
+  },
+  {
+    "id": 394,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-01-09"
+  },
+  {
+    "id": 395,
+    "city": "Nottingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-05-15"
+  },
+  {
+    "id": 396,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2016-04-17"
+  },
+  {
+    "id": 397,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-10-02"
+  },
+  {
+    "id": 398,
+    "city": "Glasgow",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-08-31"
+  },
+  {
+    "id": 399,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2020-12-19"
+  },
+  {
+    "id": 400,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-06-27"
+  },
+  {
+    "id": 401,
+    "city": "Leeds",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2013-09-15"
+  },
+  {
+    "id": 402,
+    "city": "Leicester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2017-06-29"
+  },
+  {
+    "id": 403,
+    "city": "Edinburgh",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2013-12-23"
+  },
+  {
+    "id": 404,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-12-08"
+  },
+  {
+    "id": 405,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-05-28"
+  },
+  {
+    "id": 406,
+    "city": "Leicester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-05-07"
+  },
+  {
+    "id": 407,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2016-12-23"
+  },
+  {
+    "id": 408,
+    "city": "Newcastle",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-02-05"
+  },
+  {
+    "id": 409,
+    "city": "Southampton",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-08-11"
+  },
+  {
+    "id": 410,
+    "city": "Glasgow",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2020-11-16"
+  },
+  {
+    "id": 411,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-03-06"
+  },
+  {
+    "id": 412,
+    "city": "Southampton",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-07-13"
+  },
+  {
+    "id": 413,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-08-25"
+  },
+  {
+    "id": 414,
+    "city": "Nottingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2014-07-06"
+  },
+  {
+    "id": 415,
+    "city": "Southampton",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-05-02"
+  },
+  {
+    "id": 416,
+    "city": "Leicester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-05-10"
+  },
+  {
+    "id": 417,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-11-08"
+  },
+  {
+    "id": 418,
+    "city": "Birmingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2018-07-08"
+  },
+  {
+    "id": 419,
+    "city": "Southampton",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-12-04"
+  },
+  {
+    "id": 420,
+    "city": "Newcastle",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2020-07-10"
+  },
+  {
+    "id": 421,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2013-12-29"
+  },
+  {
+    "id": 422,
+    "city": "Newcastle",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2020-12-16"
+  },
+  {
+    "id": 423,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-06-20"
+  },
+  {
+    "id": 424,
+    "city": "Liverpool",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-12-25"
+  },
+  {
+    "id": 425,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-03-05"
+  },
+  {
+    "id": 426,
+    "city": "London",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-05-22"
+  },
+  {
+    "id": 427,
+    "city": "Southampton",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-03-03"
+  },
+  {
+    "id": 428,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-02-27"
+  },
+  {
+    "id": 429,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2022-08-10"
+  },
+  {
+    "id": 430,
+    "city": "Southampton",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-04-01"
+  },
+  {
+    "id": 431,
+    "city": "Edinburgh",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-02-26"
+  },
+  {
+    "id": 432,
+    "city": "Bristol",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-01-14"
+  },
+  {
+    "id": 433,
+    "city": "London",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-02-09"
+  },
+  {
+    "id": 434,
+    "city": "Leicester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-12-28"
+  },
+  {
+    "id": 435,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-01-24"
+  },
+  {
+    "id": 436,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2019-05-14"
+  },
+  {
+    "id": 437,
+    "city": "Liverpool",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-06-02"
+  },
+  {
+    "id": 438,
+    "city": "Newcastle",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2013-09-22"
+  },
+  {
+    "id": 439,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-12-06"
+  },
+  {
+    "id": 440,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2016-05-07"
+  },
+  {
+    "id": 441,
+    "city": "Liverpool",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2016-07-27"
+  },
+  {
+    "id": 442,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-12-16"
+  },
+  {
+    "id": 443,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-11-04"
+  },
+  {
+    "id": 444,
+    "city": "Birmingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-11-06"
+  },
+  {
+    "id": 445,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-12-06"
+  },
+  {
+    "id": 446,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2014-10-06"
+  },
+  {
+    "id": 447,
+    "city": "Leicester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2016-08-01"
+  },
+  {
+    "id": 448,
+    "city": "Southampton",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2012-04-06"
+  },
+  {
+    "id": 449,
+    "city": "Manchester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-07-23"
+  },
+  {
+    "id": 450,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2022-07-18"
+  },
+  {
+    "id": 451,
+    "city": "Birmingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-10-31"
+  },
+  {
+    "id": 452,
+    "city": "London",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2014-12-19"
+  },
+  {
+    "id": 453,
+    "city": "Manchester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-06-19"
+  },
+  {
+    "id": 454,
+    "city": "Nottingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-05-17"
+  },
+  {
+    "id": 455,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2014-04-21"
+  },
+  {
+    "id": 456,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2021-09-24"
+  },
+  {
+    "id": 457,
+    "city": "London",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-10-11"
+  },
+  {
+    "id": 458,
+    "city": "London",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2017-12-20"
+  },
+  {
+    "id": 459,
+    "city": "Liverpool",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2014-01-28"
+  },
+  {
+    "id": 460,
+    "city": "Leeds",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-06-15"
+  },
+  {
+    "id": 461,
+    "city": "Birmingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-05-12"
+  },
+  {
+    "id": 462,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-12-05"
+  },
+  {
+    "id": 463,
+    "city": "Southampton",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2024-03-13"
+  },
+  {
+    "id": 464,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-06-17"
+  },
+  {
+    "id": 465,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-08-24"
+  },
+  {
+    "id": 466,
+    "city": "Manchester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-07-19"
+  },
+  {
+    "id": 467,
+    "city": "Glasgow",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2013-12-23"
+  },
+  {
+    "id": 468,
+    "city": "Manchester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-02-13"
+  },
+  {
+    "id": 469,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-04-12"
+  },
+  {
+    "id": 470,
+    "city": "London",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-06-30"
+  },
+  {
+    "id": 471,
+    "city": "London",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-01-17"
+  },
+  {
+    "id": 472,
+    "city": "London",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2016-04-21"
+  },
+  {
+    "id": 473,
+    "city": "Birmingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-11-19"
+  },
+  {
+    "id": 474,
+    "city": "Leeds",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-04-04"
+  },
+  {
+    "id": 475,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-09-06"
+  },
+  {
+    "id": 476,
+    "city": "Leeds",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2012-03-13"
+  },
+  {
+    "id": 477,
+    "city": "Sheffield",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-01-13"
+  },
+  {
+    "id": 478,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2023-06-02"
+  },
+  {
+    "id": 479,
+    "city": "London",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2014-12-13"
+  },
+  {
+    "id": 480,
+    "city": "Southampton",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-09-12"
+  },
+  {
+    "id": 481,
+    "city": "London",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2019-08-08"
+  },
+  {
+    "id": 482,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-02-18"
+  },
+  {
+    "id": 483,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2019-08-06"
+  },
+  {
+    "id": 484,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-10-27"
+  },
+  {
+    "id": 485,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-09-04"
+  },
+  {
+    "id": 486,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2024-09-18"
+  },
+  {
+    "id": 487,
+    "city": "Leicester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-02-07"
+  },
+  {
+    "id": 488,
+    "city": "Nottingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-06-15"
+  },
+  {
+    "id": 489,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-09-23"
+  },
+  {
+    "id": 490,
+    "city": "Southampton",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-10-25"
+  },
+  {
+    "id": 491,
+    "city": "London",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-09-09"
+  },
+  {
+    "id": 492,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-04-08"
+  },
+  {
+    "id": 493,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2013-01-08"
+  },
+  {
+    "id": 494,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-04-25"
+  },
+  {
+    "id": 495,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-04-17"
+  },
+  {
+    "id": 496,
+    "city": "Birmingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2021-12-23"
+  },
+  {
+    "id": 497,
+    "city": "Leeds",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2012-02-16"
+  },
+  {
+    "id": 498,
+    "city": "Edinburgh",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2024-05-17"
+  },
+  {
+    "id": 499,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-09-10"
+  },
+  {
+    "id": 500,
+    "city": "Manchester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-07-14"
+  },
+  {
+    "id": 501,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-11-22"
+  },
+  {
+    "id": 502,
+    "city": "Bristol",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-12-11"
+  },
+  {
+    "id": 503,
+    "city": "Newcastle",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2013-08-12"
+  },
+  {
+    "id": 504,
+    "city": "London",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-01-21"
+  },
+  {
+    "id": 505,
+    "city": "Southampton",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-07-05"
+  },
+  {
+    "id": 506,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-10-15"
+  },
+  {
+    "id": 507,
+    "city": "Newcastle",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-09-18"
+  },
+  {
+    "id": 508,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-05-05"
+  },
+  {
+    "id": 509,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-09-19"
+  },
+  {
+    "id": 510,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-11-29"
+  },
+  {
+    "id": 511,
+    "city": "Bristol",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-06-17"
+  },
+  {
+    "id": 512,
+    "city": "Edinburgh",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2016-02-07"
+  },
+  {
+    "id": 513,
+    "city": "Sheffield",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-01-12"
+  },
+  {
+    "id": 514,
+    "city": "Glasgow",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-02-06"
+  },
+  {
+    "id": 515,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2024-08-29"
+  },
+  {
+    "id": 516,
+    "city": "Edinburgh",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-10-11"
+  },
+  {
+    "id": 517,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2020-09-01"
+  },
+  {
+    "id": 518,
+    "city": "Cardiff",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2023-02-23"
+  },
+  {
+    "id": 519,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-06-13"
+  },
+  {
+    "id": 520,
+    "city": "Manchester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-08-03"
+  },
+  {
+    "id": 521,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2013-12-23"
+  },
+  {
+    "id": 522,
+    "city": "Glasgow",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-12-09"
+  },
+  {
+    "id": 523,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-07-03"
+  },
+  {
+    "id": 524,
+    "city": "Cardiff",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2013-04-08"
+  },
+  {
+    "id": 525,
+    "city": "London",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-11-16"
+  },
+  {
+    "id": 526,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-01-15"
+  },
+  {
+    "id": 527,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2019-06-15"
+  },
+  {
+    "id": 528,
+    "city": "Sheffield",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-05-25"
+  },
+  {
+    "id": 529,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2024-03-06"
+  },
+  {
+    "id": 530,
+    "city": "Southampton",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-09-26"
+  },
+  {
+    "id": 531,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2024-06-09"
+  },
+  {
+    "id": 532,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2012-12-11"
+  },
+  {
+    "id": 533,
+    "city": "London",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-07-31"
+  },
+  {
+    "id": 534,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-02-07"
+  },
+  {
+    "id": 535,
+    "city": "Southampton",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2020-12-17"
+  },
+  {
+    "id": 536,
+    "city": "Sheffield",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2014-01-30"
+  },
+  {
+    "id": 537,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-08-27"
+  },
+  {
+    "id": 538,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-11-03"
+  },
+  {
+    "id": 539,
+    "city": "Sheffield",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-07-01"
+  },
+  {
+    "id": 540,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-02-13"
+  },
+  {
+    "id": 541,
+    "city": "London",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2020-08-28"
+  },
+  {
+    "id": 542,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-05-28"
+  },
+  {
+    "id": 543,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2017-07-14"
+  },
+  {
+    "id": 544,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2017-08-04"
+  },
+  {
+    "id": 545,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-09-24"
+  },
+  {
+    "id": 546,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2020-01-12"
+  },
+  {
+    "id": 547,
+    "city": "Newcastle",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2014-09-28"
+  },
+  {
+    "id": 548,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-07-09"
+  },
+  {
+    "id": 549,
+    "city": "Birmingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2022-08-13"
+  },
+  {
+    "id": 550,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2022-09-17"
+  },
+  {
+    "id": 551,
+    "city": "Liverpool",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2016-09-02"
+  },
+  {
+    "id": 552,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-05-01"
+  },
+  {
+    "id": 553,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-12-19"
+  },
+  {
+    "id": 554,
+    "city": "Nottingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2016-08-14"
+  },
+  {
+    "id": 555,
+    "city": "London",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-01-05"
+  },
+  {
+    "id": 556,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2024-02-29"
+  },
+  {
+    "id": 557,
+    "city": "Leeds",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-04-13"
+  },
+  {
+    "id": 558,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-12-01"
+  },
+  {
+    "id": 559,
+    "city": "Liverpool",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-03-11"
+  },
+  {
+    "id": 560,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-10-07"
+  },
+  {
+    "id": 561,
+    "city": "Leeds",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-06-19"
+  },
+  {
+    "id": 562,
+    "city": "Sheffield",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-03-18"
+  },
+  {
+    "id": 563,
+    "city": "Edinburgh",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-07-02"
+  },
+  {
+    "id": 564,
+    "city": "London",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-07-02"
+  },
+  {
+    "id": 565,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-06-01"
+  },
+  {
+    "id": 566,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-02-02"
+  },
+  {
+    "id": 567,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-08-03"
+  },
+  {
+    "id": 568,
+    "city": "Leicester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-03-06"
+  },
+  {
+    "id": 569,
+    "city": "Bristol",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2022-09-03"
+  },
+  {
+    "id": 570,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2014-07-15"
+  },
+  {
+    "id": 571,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-04-10"
+  },
+  {
+    "id": 572,
+    "city": "Southampton",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-09-21"
+  },
+  {
+    "id": 573,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2024-02-04"
+  },
+  {
+    "id": 574,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2018-01-10"
+  },
+  {
+    "id": 575,
+    "city": "Newcastle",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-11-17"
+  },
+  {
+    "id": 576,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-02-13"
+  },
+  {
+    "id": 577,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2012-11-23"
+  },
+  {
+    "id": 578,
+    "city": "Leicester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2016-03-01"
+  },
+  {
+    "id": 579,
+    "city": "Southampton",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2012-08-28"
+  },
+  {
+    "id": 580,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-10-05"
+  },
+  {
+    "id": 581,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2024-05-02"
+  },
+  {
+    "id": 582,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-06-06"
+  },
+  {
+    "id": 583,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2022-02-27"
+  },
+  {
+    "id": 584,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-02-09"
+  },
+  {
+    "id": 585,
+    "city": "Southampton",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-12-22"
+  },
+  {
+    "id": 586,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-12-01"
+  },
+  {
+    "id": 587,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2019-03-17"
+  },
+  {
+    "id": 588,
+    "city": "Cardiff",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-07-20"
+  },
+  {
+    "id": 589,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-08-12"
+  },
+  {
+    "id": 590,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2020-11-08"
+  },
+  {
+    "id": 591,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-03-15"
+  },
+  {
+    "id": 592,
+    "city": "Southampton",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2020-01-20"
+  },
+  {
+    "id": 593,
+    "city": "Liverpool",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-01-19"
+  },
+  {
+    "id": 594,
+    "city": "Edinburgh",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2024-03-28"
+  },
+  {
+    "id": 595,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-10-30"
+  },
+  {
+    "id": 596,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-05-14"
+  },
+  {
+    "id": 597,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-11-13"
+  },
+  {
+    "id": 598,
+    "city": "Nottingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2018-07-22"
+  },
+  {
+    "id": 599,
+    "city": "Birmingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2014-02-01"
+  },
+  {
+    "id": 600,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-04-12"
+  },
+  {
+    "id": 601,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2017-08-01"
+  },
+  {
+    "id": 602,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2013-09-04"
+  },
+  {
+    "id": 603,
+    "city": "Manchester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2024-12-23"
+  },
+  {
+    "id": 604,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2020-07-31"
+  },
+  {
+    "id": 605,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-08-09"
+  },
+  {
+    "id": 606,
+    "city": "Leeds",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2019-02-24"
+  },
+  {
+    "id": 607,
+    "city": "London",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2014-06-18"
+  },
+  {
+    "id": 608,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-10-18"
+  },
+  {
+    "id": 609,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-11-29"
+  },
+  {
+    "id": 610,
+    "city": "Leeds",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2016-06-24"
+  },
+  {
+    "id": 611,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-12-23"
+  },
+  {
+    "id": 612,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-07-21"
+  },
+  {
+    "id": 613,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-03-04"
+  },
+  {
+    "id": 614,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-02-22"
+  },
+  {
+    "id": 615,
+    "city": "Sheffield",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-10-02"
+  },
+  {
+    "id": 616,
+    "city": "Liverpool",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2024-02-06"
+  },
+  {
+    "id": 617,
+    "city": "Cardiff",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-12-17"
+  },
+  {
+    "id": 618,
+    "city": "Leicester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2013-08-30"
+  },
+  {
+    "id": 619,
+    "city": "Edinburgh",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-01-14"
+  },
+  {
+    "id": 620,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-10-12"
+  },
+  {
+    "id": 621,
+    "city": "Edinburgh",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2022-07-17"
+  },
+  {
+    "id": 622,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-07-06"
+  },
+  {
+    "id": 623,
+    "city": "Glasgow",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-08-17"
+  },
+  {
+    "id": 624,
+    "city": "Liverpool",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-11-07"
+  },
+  {
+    "id": 625,
+    "city": "Nottingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-07-04"
+  },
+  {
+    "id": 626,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2020-12-09"
+  },
+  {
+    "id": 627,
+    "city": "Birmingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-07-15"
+  },
+  {
+    "id": 628,
+    "city": "Leicester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-12-16"
+  },
+  {
+    "id": 629,
+    "city": "Newcastle",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-06-25"
+  },
+  {
+    "id": 630,
+    "city": "Liverpool",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-12-18"
+  },
+  {
+    "id": 631,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-05-03"
+  },
+  {
+    "id": 632,
+    "city": "Sheffield",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2014-05-20"
+  },
+  {
+    "id": 633,
+    "city": "Bristol",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-11-25"
+  },
+  {
+    "id": 634,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-01-29"
+  },
+  {
+    "id": 635,
+    "city": "Cardiff",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-06-04"
+  },
+  {
+    "id": 636,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-07-16"
+  },
+  {
+    "id": 637,
+    "city": "Leeds",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2012-10-04"
+  },
+  {
+    "id": 638,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-01-23"
+  },
+  {
+    "id": 639,
+    "city": "Newcastle",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-07-08"
+  },
+  {
+    "id": 640,
+    "city": "Liverpool",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2020-11-26"
+  },
+  {
+    "id": 641,
+    "city": "Cardiff",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-12-18"
+  },
+  {
+    "id": 642,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2019-05-17"
+  },
+  {
+    "id": 643,
+    "city": "Glasgow",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-10-13"
+  },
+  {
+    "id": 644,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-04-08"
+  },
+  {
+    "id": 645,
+    "city": "London",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2024-07-18"
+  },
+  {
+    "id": 646,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-12-28"
+  },
+  {
+    "id": 647,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-11-16"
+  },
+  {
+    "id": 648,
+    "city": "Southampton",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2024-08-22"
+  },
+  {
+    "id": 649,
+    "city": "Cardiff",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-02-22"
+  },
+  {
+    "id": 650,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2023-04-26"
+  },
+  {
+    "id": 651,
+    "city": "Liverpool",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-03-20"
+  },
+  {
+    "id": 652,
+    "city": "Leicester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-02-19"
+  },
+  {
+    "id": 653,
+    "city": "Sheffield",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-12-07"
+  },
+  {
+    "id": 654,
+    "city": "Liverpool",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-11-18"
+  },
+  {
+    "id": 655,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-12-18"
+  },
+  {
+    "id": 656,
+    "city": "Cardiff",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2020-03-04"
+  },
+  {
+    "id": 657,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2019-06-22"
+  },
+  {
+    "id": 658,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-11-26"
+  },
+  {
+    "id": 659,
+    "city": "Newcastle",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2013-03-24"
+  },
+  {
+    "id": 660,
+    "city": "Birmingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2012-02-09"
+  },
+  {
+    "id": 661,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2013-02-14"
+  },
+  {
+    "id": 662,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-12-23"
+  },
+  {
+    "id": 663,
+    "city": "Newcastle",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-03-27"
+  },
+  {
+    "id": 664,
+    "city": "Southampton",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2024-08-05"
+  },
+  {
+    "id": 665,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2013-01-05"
+  },
+  {
+    "id": 666,
+    "city": "Newcastle",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2017-09-29"
+  },
+  {
+    "id": 667,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-04-07"
+  },
+  {
+    "id": 668,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-08-07"
+  },
+  {
+    "id": 669,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2019-09-25"
+  },
+  {
+    "id": 670,
+    "city": "Southampton",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-10-10"
+  },
+  {
+    "id": 671,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-09-10"
+  },
+  {
+    "id": 672,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-05-14"
+  },
+  {
+    "id": 673,
+    "city": "Edinburgh",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-06-08"
+  },
+  {
+    "id": 674,
+    "city": "Southampton",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2013-10-03"
+  },
+  {
+    "id": 675,
+    "city": "Sheffield",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-06-24"
+  },
+  {
+    "id": 676,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-10-01"
+  },
+  {
+    "id": 677,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2024-08-20"
+  },
+  {
+    "id": 678,
+    "city": "Newcastle",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-07-06"
+  },
+  {
+    "id": 679,
+    "city": "Newcastle",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-08-23"
+  },
+  {
+    "id": 680,
+    "city": "Manchester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-12-11"
+  },
+  {
+    "id": 681,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-04-13"
+  },
+  {
+    "id": 682,
+    "city": "Cardiff",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-10-04"
+  },
+  {
+    "id": 683,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-08-15"
+  },
+  {
+    "id": 684,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-05-03"
+  },
+  {
+    "id": 685,
+    "city": "London",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2019-05-12"
+  },
+  {
+    "id": 686,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-09-15"
+  },
+  {
+    "id": 687,
+    "city": "Glasgow",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-12-02"
+  },
+  {
+    "id": 688,
+    "city": "Leicester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2012-02-11"
+  },
+  {
+    "id": 689,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-10-20"
+  },
+  {
+    "id": 690,
+    "city": "Newcastle",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2016-05-16"
+  },
+  {
+    "id": 691,
+    "city": "Bristol",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-12-19"
+  },
+  {
+    "id": 692,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-01-18"
+  },
+  {
+    "id": 693,
+    "city": "Edinburgh",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-05-01"
+  },
+  {
+    "id": 694,
+    "city": "Leeds",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-03-25"
+  },
+  {
+    "id": 695,
+    "city": "Liverpool",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2018-03-21"
+  },
+  {
+    "id": 696,
+    "city": "Cardiff",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2014-02-28"
+  },
+  {
+    "id": 697,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2023-03-11"
+  },
+  {
+    "id": 698,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-09-27"
+  },
+  {
+    "id": 699,
+    "city": "London",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2023-02-16"
+  },
+  {
+    "id": 700,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-07-21"
+  },
+  {
+    "id": 701,
+    "city": "Leicester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2016-11-23"
+  },
+  {
+    "id": 702,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-11-24"
+  },
+  {
+    "id": 703,
+    "city": "Edinburgh",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-02-10"
+  },
+  {
+    "id": 704,
+    "city": "London",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2022-02-22"
+  },
+  {
+    "id": 705,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-12-19"
+  },
+  {
+    "id": 706,
+    "city": "Cardiff",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-01-22"
+  },
+  {
+    "id": 707,
+    "city": "Newcastle",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-07-03"
+  },
+  {
+    "id": 708,
+    "city": "Liverpool",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-04-23"
+  },
+  {
+    "id": 709,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2012-10-11"
+  },
+  {
+    "id": 710,
+    "city": "Leeds",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2020-08-05"
+  },
+  {
+    "id": 711,
+    "city": "Liverpool",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2023-11-16"
+  },
+  {
+    "id": 712,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2021-09-22"
+  },
+  {
+    "id": 713,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2016-08-30"
+  },
+  {
+    "id": 714,
+    "city": "Liverpool",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2014-03-26"
+  },
+  {
+    "id": 715,
+    "city": "Sheffield",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-06-22"
+  },
+  {
+    "id": 716,
+    "city": "Glasgow",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2022-04-21"
+  },
+  {
+    "id": 717,
+    "city": "Liverpool",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2023-01-08"
+  },
+  {
+    "id": 718,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-10-03"
+  },
+  {
+    "id": 719,
+    "city": "London",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2023-01-02"
+  },
+  {
+    "id": 720,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2021-09-12"
+  },
+  {
+    "id": 721,
+    "city": "Newcastle",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2018-11-10"
+  },
+  {
+    "id": 722,
+    "city": "Edinburgh",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-03-16"
+  },
+  {
+    "id": 723,
+    "city": "Leeds",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2024-03-16"
+  },
+  {
+    "id": 724,
+    "city": "Leicester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-01-04"
+  },
+  {
+    "id": 725,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-04-03"
+  },
+  {
+    "id": 726,
+    "city": "Birmingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-06-14"
+  },
+  {
+    "id": 727,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2024-10-14"
+  },
+  {
+    "id": 728,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2014-07-30"
+  },
+  {
+    "id": 729,
+    "city": "Cardiff",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2018-08-15"
+  },
+  {
+    "id": 730,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-11-15"
+  },
+  {
+    "id": 731,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-02-26"
+  },
+  {
+    "id": 732,
+    "city": "Southampton",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2024-06-14"
+  },
+  {
+    "id": 733,
+    "city": "Manchester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-11-19"
+  },
+  {
+    "id": 734,
+    "city": "Liverpool",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-04-09"
+  },
+  {
+    "id": 735,
+    "city": "Manchester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-06-13"
+  },
+  {
+    "id": 736,
+    "city": "Leicester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2024-05-25"
+  },
+  {
+    "id": 737,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2020-01-23"
+  },
+  {
+    "id": 738,
+    "city": "Cardiff",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-03-19"
+  },
+  {
+    "id": 739,
+    "city": "Sheffield",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-06-17"
+  },
+  {
+    "id": 740,
+    "city": "Leeds",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2020-12-14"
+  },
+  {
+    "id": 741,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-11-08"
+  },
+  {
+    "id": 742,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-06-23"
+  },
+  {
+    "id": 743,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-02-04"
+  },
+  {
+    "id": 744,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-09-09"
+  },
+  {
+    "id": 745,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-11-22"
+  },
+  {
+    "id": 746,
+    "city": "Leicester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2024-09-12"
+  },
+  {
+    "id": 747,
+    "city": "Leicester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-08-21"
+  },
+  {
+    "id": 748,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2012-09-29"
+  },
+  {
+    "id": 749,
+    "city": "Birmingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-10-16"
+  },
+  {
+    "id": 750,
+    "city": "Bristol",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-05-18"
+  },
+  {
+    "id": 751,
+    "city": "Bristol",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-10-20"
+  },
+  {
+    "id": 752,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-12-02"
+  },
+  {
+    "id": 753,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-09-05"
+  },
+  {
+    "id": 754,
+    "city": "Leeds",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2014-12-29"
+  },
+  {
+    "id": 755,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2020-01-22"
+  },
+  {
+    "id": 756,
+    "city": "Southampton",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-09-24"
+  },
+  {
+    "id": 757,
+    "city": "Liverpool",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-09-12"
+  },
+  {
+    "id": 758,
+    "city": "Cardiff",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2014-07-27"
+  },
+  {
+    "id": 759,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2014-04-30"
+  },
+  {
+    "id": 760,
+    "city": "Cardiff",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2014-01-07"
+  },
+  {
+    "id": 761,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-08-15"
+  },
+  {
+    "id": 762,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2023-05-17"
+  },
+  {
+    "id": 763,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2019-10-07"
+  },
+  {
+    "id": 764,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2022-06-21"
+  },
+  {
+    "id": 765,
+    "city": "Birmingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-06-10"
+  },
+  {
+    "id": 766,
+    "city": "Leicester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2020-08-25"
+  },
+  {
+    "id": 767,
+    "city": "Glasgow",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2016-05-05"
+  },
+  {
+    "id": 768,
+    "city": "Liverpool",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2024-05-12"
+  },
+  {
+    "id": 769,
+    "city": "Leicester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-08-15"
+  },
+  {
+    "id": 770,
+    "city": "Southampton",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-04-17"
+  },
+  {
+    "id": 771,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-03-12"
+  },
+  {
+    "id": 772,
+    "city": "London",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2020-11-29"
+  },
+  {
+    "id": 773,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-10-04"
+  },
+  {
+    "id": 774,
+    "city": "Bristol",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2016-12-14"
+  },
+  {
+    "id": 775,
+    "city": "Birmingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2020-01-15"
+  },
+  {
+    "id": 776,
+    "city": "Glasgow",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-01-20"
+  },
+  {
+    "id": 777,
+    "city": "Leicester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2013-11-25"
+  },
+  {
+    "id": 778,
+    "city": "Newcastle",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-11-17"
+  },
+  {
+    "id": 779,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-03-05"
+  },
+  {
+    "id": 780,
+    "city": "Leicester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-07-26"
+  },
+  {
+    "id": 781,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2024-08-22"
+  },
+  {
+    "id": 782,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-06-23"
+  },
+  {
+    "id": 783,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2020-03-11"
+  },
+  {
+    "id": 784,
+    "city": "Birmingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2021-02-28"
+  },
+  {
+    "id": 785,
+    "city": "Edinburgh",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-06-04"
+  },
+  {
+    "id": 786,
+    "city": "London",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-09-06"
+  },
+  {
+    "id": 787,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-06-07"
+  },
+  {
+    "id": 788,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2024-02-23"
+  },
+  {
+    "id": 789,
+    "city": "Sheffield",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2018-07-06"
+  },
+  {
+    "id": 790,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-01-15"
+  },
+  {
+    "id": 791,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2018-01-02"
+  },
+  {
+    "id": 792,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2019-09-28"
+  },
+  {
+    "id": 793,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-04-27"
+  },
+  {
+    "id": 794,
+    "city": "Manchester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2023-06-14"
+  },
+  {
+    "id": 795,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-11-25"
+  },
+  {
+    "id": 796,
+    "city": "Sheffield",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2012-09-26"
+  },
+  {
+    "id": 797,
+    "city": "Southampton",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2023-10-14"
+  },
+  {
+    "id": 798,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-12-21"
+  },
+  {
+    "id": 799,
+    "city": "Newcastle",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2012-04-04"
+  },
+  {
+    "id": 800,
+    "city": "London",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2022-11-22"
+  },
+  {
+    "id": 801,
+    "city": "Manchester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-02-09"
+  },
+  {
+    "id": 802,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-12-05"
+  },
+  {
+    "id": 803,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2014-11-23"
+  },
+  {
+    "id": 804,
+    "city": "Bristol",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2024-08-01"
+  },
+  {
+    "id": 805,
+    "city": "Southampton",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2022-11-12"
+  },
+  {
+    "id": 806,
+    "city": "Leicester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2014-11-23"
+  },
+  {
+    "id": 807,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-05-12"
+  },
+  {
+    "id": 808,
+    "city": "Leeds",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2017-02-23"
+  },
+  {
+    "id": 809,
+    "city": "London",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-06-02"
+  },
+  {
+    "id": 810,
+    "city": "Cardiff",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-01-12"
+  },
+  {
+    "id": 811,
+    "city": "London",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-10-08"
+  },
+  {
+    "id": 812,
+    "city": "Leicester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-07-07"
+  },
+  {
+    "id": 813,
+    "city": "Cardiff",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2017-02-03"
+  },
+  {
+    "id": 814,
+    "city": "Birmingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2015-06-01"
+  },
+  {
+    "id": 815,
+    "city": "Cardiff",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2023-03-26"
+  },
+  {
+    "id": 816,
+    "city": "Leeds",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-05-14"
+  },
+  {
+    "id": 817,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2015-07-10"
+  },
+  {
+    "id": 818,
+    "city": "Southampton",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2016-10-27"
+  },
+  {
+    "id": 819,
+    "city": "Leicester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-11-22"
+  },
+  {
+    "id": 820,
+    "city": "Edinburgh",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2013-03-01"
+  },
+  {
+    "id": 821,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2016-03-08"
+  },
+  {
+    "id": 822,
+    "city": "Bristol",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2021-11-09"
+  },
+  {
+    "id": 823,
+    "city": "Glasgow",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-08-11"
+  },
+  {
+    "id": 824,
+    "city": "Edinburgh",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-01-27"
+  },
+  {
+    "id": 825,
+    "city": "Birmingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2021-10-25"
+  },
+  {
+    "id": 826,
+    "city": "Leeds",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2022-11-29"
+  },
+  {
+    "id": 827,
+    "city": "Bristol",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-08-19"
+  },
+  {
+    "id": 828,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2017-05-21"
+  },
+  {
+    "id": 829,
+    "city": "Leicester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2020-12-11"
+  },
+  {
+    "id": 830,
+    "city": "Bristol",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-04-18"
+  },
+  {
+    "id": 831,
+    "city": "London",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-05-14"
+  },
+  {
+    "id": 832,
+    "city": "Newcastle",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2014-07-08"
+  },
+  {
+    "id": 833,
+    "city": "Cardiff",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-06-27"
+  },
+  {
+    "id": 834,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2024-01-10"
+  },
+  {
+    "id": 835,
+    "city": "London",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-11-12"
+  },
+  {
+    "id": 836,
+    "city": "London",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-09-01"
+  },
+  {
+    "id": 837,
+    "city": "Manchester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2013-09-10"
+  },
+  {
+    "id": 838,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-12-19"
+  },
+  {
+    "id": 839,
+    "city": "Leicester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-03-16"
+  },
+  {
+    "id": 840,
+    "city": "Southampton",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-08-27"
+  },
+  {
+    "id": 841,
+    "city": "Bristol",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2020-06-20"
+  },
+  {
+    "id": 842,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-06-30"
+  },
+  {
+    "id": 843,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2020-11-30"
+  },
+  {
+    "id": 844,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2013-04-17"
+  },
+  {
+    "id": 845,
+    "city": "London",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-03-21"
+  },
+  {
+    "id": 846,
+    "city": "Cardiff",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-06-26"
+  },
+  {
+    "id": 847,
+    "city": "Sheffield",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2024-01-07"
+  },
+  {
+    "id": 848,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-05-23"
+  },
+  {
+    "id": 849,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2017-09-29"
+  },
+  {
+    "id": 850,
+    "city": "Leicester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-12-25"
+  },
+  {
+    "id": 851,
+    "city": "Nottingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-08-14"
+  },
+  {
+    "id": 852,
+    "city": "Birmingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2018-04-28"
+  },
+  {
+    "id": 853,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2012-12-15"
+  },
+  {
+    "id": 854,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2018-07-20"
+  },
+  {
+    "id": 855,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-10-01"
+  },
+  {
+    "id": 856,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2020-10-29"
+  },
+  {
+    "id": 857,
+    "city": "Southampton",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2024-01-21"
+  },
+  {
+    "id": 858,
+    "city": "Liverpool",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-02-23"
+  },
+  {
+    "id": 859,
+    "city": "Edinburgh",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-11-14"
+  },
+  {
+    "id": 860,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-06-03"
+  },
+  {
+    "id": 861,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-01-19"
+  },
+  {
+    "id": 862,
+    "city": "London",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2018-11-06"
+  },
+  {
+    "id": 863,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-03-14"
+  },
+  {
+    "id": 864,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-05-25"
+  },
+  {
+    "id": 865,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2022-02-10"
+  },
+  {
+    "id": 866,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2016-08-03"
+  },
+  {
+    "id": 867,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2012-03-30"
+  },
+  {
+    "id": 868,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-11-30"
+  },
+  {
+    "id": 869,
+    "city": "Cardiff",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2014-11-17"
+  },
+  {
+    "id": 870,
+    "city": "Leicester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-10-03"
+  },
+  {
+    "id": 871,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-10-13"
+  },
+  {
+    "id": 872,
+    "city": "Liverpool",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-02-20"
+  },
+  {
+    "id": 873,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2024-10-07"
+  },
+  {
+    "id": 874,
+    "city": "Glasgow",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-08-27"
+  },
+  {
+    "id": 875,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-04-19"
+  },
+  {
+    "id": 876,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-04-20"
+  },
+  {
+    "id": 877,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2016-11-05"
+  },
+  {
+    "id": 878,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2020-04-03"
+  },
+  {
+    "id": 879,
+    "city": "London",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-12-31"
+  },
+  {
+    "id": 880,
+    "city": "Birmingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2020-08-02"
+  },
+  {
+    "id": 881,
+    "city": "Leicester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-09-01"
+  },
+  {
+    "id": 882,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-11-02"
+  },
+  {
+    "id": 883,
+    "city": "Nottingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2022-10-11"
+  },
+  {
+    "id": 884,
+    "city": "Newcastle",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-09-08"
+  },
+  {
+    "id": 885,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-04-19"
+  },
+  {
+    "id": 886,
+    "city": "Glasgow",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2020-01-18"
+  },
+  {
+    "id": 887,
+    "city": "Leicester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-02-19"
+  },
+  {
+    "id": 888,
+    "city": "Liverpool",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-06-27"
+  },
+  {
+    "id": 889,
+    "city": "Birmingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-10-19"
+  },
+  {
+    "id": 890,
+    "city": "Nottingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-09-03"
+  },
+  {
+    "id": 891,
+    "city": "Glasgow",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-09-02"
+  },
+  {
+    "id": 892,
+    "city": "Edinburgh",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2019-08-21"
+  },
+  {
+    "id": 893,
+    "city": "Glasgow",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2012-08-10"
+  },
+  {
+    "id": 894,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-12-23"
+  },
+  {
+    "id": 895,
+    "city": "Newcastle",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-09-09"
+  },
+  {
+    "id": 896,
+    "city": "Leicester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-02-06"
+  },
+  {
+    "id": 897,
+    "city": "Bristol",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-11-23"
+  },
+  {
+    "id": 898,
+    "city": "Bristol",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2014-02-13"
+  },
+  {
+    "id": 899,
+    "city": "Leicester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2014-03-30"
+  },
+  {
+    "id": 900,
+    "city": "Newcastle",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-09-04"
+  },
+  {
+    "id": 901,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2015-04-18"
+  },
+  {
+    "id": 902,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2019-07-29"
+  },
+  {
+    "id": 903,
+    "city": "Manchester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-10-28"
+  },
+  {
+    "id": 904,
+    "city": "Nottingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2013-01-20"
+  },
+  {
+    "id": 905,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2014-04-08"
+  },
+  {
+    "id": 906,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-07-20"
+  },
+  {
+    "id": 907,
+    "city": "Birmingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2014-03-11"
+  },
+  {
+    "id": 908,
+    "city": "London",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-10-22"
+  },
+  {
+    "id": 909,
+    "city": "Cardiff",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2022-08-21"
+  },
+  {
+    "id": 910,
+    "city": "Leeds",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2019-02-21"
+  },
+  {
+    "id": 911,
+    "city": "Southampton",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2012-10-02"
+  },
+  {
+    "id": 912,
+    "city": "Cardiff",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2014-10-09"
+  },
+  {
+    "id": 913,
+    "city": "Southampton",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2024-10-19"
+  },
+  {
+    "id": 914,
+    "city": "Cardiff",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2018-02-09"
+  },
+  {
+    "id": 915,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2013-02-27"
+  },
+  {
+    "id": 916,
+    "city": "Birmingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-11-12"
+  },
+  {
+    "id": 917,
+    "city": "Liverpool",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2013-09-22"
+  },
+  {
+    "id": 918,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-07-08"
+  },
+  {
+    "id": 919,
+    "city": "Cardiff",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-09-14"
+  },
+  {
+    "id": 920,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-10-12"
+  },
+  {
+    "id": 921,
+    "city": "Liverpool",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2023-06-02"
+  },
+  {
+    "id": 922,
+    "city": "Edinburgh",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2019-03-06"
+  },
+  {
+    "id": 923,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-01-29"
+  },
+  {
+    "id": 924,
+    "city": "Liverpool",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-08-30"
+  },
+  {
+    "id": 925,
+    "city": "Cardiff",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2012-07-26"
+  },
+  {
+    "id": 926,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2021-09-09"
+  },
+  {
+    "id": 927,
+    "city": "Newcastle",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-07-30"
+  },
+  {
+    "id": 928,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2020-03-11"
+  },
+  {
+    "id": 929,
+    "city": "Bristol",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2022-07-20"
+  },
+  {
+    "id": 930,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2019-05-15"
+  },
+  {
+    "id": 931,
+    "city": "Glasgow",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2021-10-03"
+  },
+  {
+    "id": 932,
+    "city": "Glasgow",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-01-06"
+  },
+  {
+    "id": 933,
+    "city": "Leicester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2012-07-13"
+  },
+  {
+    "id": 934,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2012-01-03"
+  },
+  {
+    "id": 935,
+    "city": "Leicester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2023-08-07"
+  },
+  {
+    "id": 936,
+    "city": "Cardiff",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2020-12-09"
+  },
+  {
+    "id": 937,
+    "city": "Manchester",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-07-24"
+  },
+  {
+    "id": 938,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2017-03-26"
+  },
+  {
+    "id": 939,
+    "city": "Leeds",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-08-15"
+  },
+  {
+    "id": 940,
+    "city": "Liverpool",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-09-23"
+  },
+  {
+    "id": 941,
+    "city": "Manchester",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-07-08"
+  },
+  {
+    "id": 942,
+    "city": "Sheffield",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2021-01-12"
+  },
+  {
+    "id": 943,
+    "city": "Sheffield",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-12-06"
+  },
+  {
+    "id": 944,
+    "city": "Manchester",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2018-12-05"
+  },
+  {
+    "id": 945,
+    "city": "Birmingham",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2017-08-13"
+  },
+  {
+    "id": 946,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2020-10-23"
+  },
+  {
+    "id": 947,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2013-07-17"
+  },
+  {
+    "id": 948,
+    "city": "Birmingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-12-08"
+  },
+  {
+    "id": 949,
+    "city": "Glasgow",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2021-09-15"
+  },
+  {
+    "id": 950,
+    "city": "Sheffield",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2013-02-12"
+  },
+  {
+    "id": 951,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2020-01-23"
+  },
+  {
+    "id": 952,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-03-03"
+  },
+  {
+    "id": 953,
+    "city": "Liverpool",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-02-04"
+  },
+  {
+    "id": 954,
+    "city": "London",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2012-05-19"
+  },
+  {
+    "id": 955,
+    "city": "Cardiff",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-10-29"
+  },
+  {
+    "id": 956,
+    "city": "Leeds",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-01-24"
+  },
+  {
+    "id": 957,
+    "city": "Leeds",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-08-13"
+  },
+  {
+    "id": 958,
+    "city": "London",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2022-04-04"
+  },
+  {
+    "id": 959,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2022-01-31"
+  },
+  {
+    "id": 960,
+    "city": "Southampton",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-07-25"
+  },
+  {
+    "id": 961,
+    "city": "Newcastle",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-01-23"
+  },
+  {
+    "id": 962,
+    "city": "Leeds",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-05-26"
+  },
+  {
+    "id": 963,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2017-11-14"
+  },
+  {
+    "id": 964,
+    "city": "Bristol",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2024-01-13"
+  },
+  {
+    "id": 965,
+    "city": "Manchester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2014-07-04"
+  },
+  {
+    "id": 966,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2016-08-13"
+  },
+  {
+    "id": 967,
+    "city": "Glasgow",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-07-21"
+  },
+  {
+    "id": 968,
+    "city": "Liverpool",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2018-06-05"
+  },
+  {
+    "id": 969,
+    "city": "Birmingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2024-03-13"
+  },
+  {
+    "id": 970,
+    "city": "Nottingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2018-08-24"
+  },
+  {
+    "id": 971,
+    "city": "Birmingham",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2015-11-14"
+  },
+  {
+    "id": 972,
+    "city": "Glasgow",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2017-06-18"
+  },
+  {
+    "id": 973,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-04-23"
+  },
+  {
+    "id": 974,
+    "city": "Glasgow",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2021-01-13"
+  },
+  {
+    "id": 975,
+    "city": "Birmingham",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2012-01-24"
+  },
+  {
+    "id": 976,
+    "city": "Newcastle",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2023-09-27"
+  },
+  {
+    "id": 977,
+    "city": "Sheffield",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2017-11-08"
+  },
+  {
+    "id": 978,
+    "city": "Liverpool",
+    "species": "Tree-hole tick",
+    "latinName": "Ixodes arboricola",
+    "date": "2013-10-24"
+  },
+  {
+    "id": 979,
+    "city": "Nottingham",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2023-11-30"
+  },
+  {
+    "id": 980,
+    "city": "London",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2021-08-05"
+  },
+  {
+    "id": 981,
+    "city": "Glasgow",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-07-18"
+  },
+  {
+    "id": 982,
+    "city": "Newcastle",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2013-02-01"
+  },
+  {
+    "id": 983,
+    "city": "Birmingham",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2018-06-30"
+  },
+  {
+    "id": 984,
+    "city": "Edinburgh",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-11-18"
+  },
+  {
+    "id": 985,
+    "city": "Leeds",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2019-10-26"
+  },
+  {
+    "id": 986,
+    "city": "Edinburgh",
+    "species": "Marsh tick",
+    "latinName": "Ixodes apronophorus",
+    "date": "2018-09-14"
+  },
+  {
+    "id": 987,
+    "city": "Leicester",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2022-11-28"
+  },
+  {
+    "id": 988,
+    "city": "Cardiff",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2021-09-22"
+  },
+  {
+    "id": 989,
+    "city": "Liverpool",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2015-04-02"
+  },
+  {
+    "id": 990,
+    "city": "Edinburgh",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-07-29"
+  },
+  {
+    "id": 991,
+    "city": "Leeds",
+    "species": "Southern rodent tick",
+    "latinName": "Ixodes acuminatus",
+    "date": "2017-04-02"
+  },
+  {
+    "id": 992,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2014-11-13"
+  },
+  {
+    "id": 993,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2017-11-02"
+  },
+  {
+    "id": 994,
+    "city": "Sheffield",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2019-06-22"
+  },
+  {
+    "id": 995,
+    "city": "Sheffield",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2024-03-10"
+  },
+  {
+    "id": 996,
+    "city": "Bristol",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2022-12-18"
+  },
+  {
+    "id": 997,
+    "city": "London",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2018-04-11"
+  },
+  {
+    "id": 998,
+    "city": "Leicester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2016-11-25"
+  },
+  {
+    "id": 999,
+    "city": "Leicester",
+    "species": "Fox/badger tick",
+    "latinName": "Ixodes canisuga",
+    "date": "2023-01-30"
+  },
+  {
+    "id": 1000,
+    "city": "Edinburgh",
+    "species": "Passerine tick",
+    "latinName": "Dermacentor frontalis",
+    "date": "2012-05-28"
+  }
+]
