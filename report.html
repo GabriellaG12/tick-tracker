@@ -13,7 +13,8 @@
 
 <main class="layout-report">
     <div class="report-container">
-
+        
+        <!-- Form -->
         <form id="report-form">
             <label>
                 Date:
@@ -34,8 +35,10 @@
             <button type="submit">Submit Sighting</button>
         </form>
 
+        <!-- Placeholder for form message -->
         <div id="form-message" class="hidden"></div>
 
+        <!-- Back button to go back to map -->
         <button onclick="window.location.href='index.html'" class="back-button">
             Back to Map
         </button>
@@ -44,42 +47,45 @@
 </main>
 
 <script>
+// form submission
 document.getElementById("report-form").addEventListener("submit", async function(e) {
     e.preventDefault();
+    // get form values
     const date = document.getElementById("sighting-date").value;
     const city = document.getElementById("sighting-city").value.trim();
     const species = document.getElementById("sighting-species").value.trim();
     const latinName = document.getElementById("sighting-latin").value.trim();
     const messageDiv = document.getElementById("form-message");
-
+    // validate input
     if (!date || !city || !species || !latinName) {
-        messageDiv.textContent = "⚠ Please fill in all fields.";
+        messageDiv.textContent = "Please fill in all fields.";
         messageDiv.style.color = "orange";
         messageDiv.classList.remove("hidden");
         return;
     }
-
+    // send data to API
     try {
         const response = await fetch("http://localhost:3000/api", {
             method: "POST",
             headers: { "Content-Type": "application/json" },
             body: JSON.stringify({ date, city, species, latinName })
         });
-
+        // handle API response
         const result = await response.json();
         if (result.success) {
-            messageDiv.textContent = "✔ Sighting reported successfully!";
+            messageDiv.textContent = "Sighting reported successfully!";
             messageDiv.style.color = "green";
             messageDiv.classList.remove("hidden");
             this.reset();
         } else {
-            messageDiv.textContent = "⚠ Error submitting sighting.";
+            messageDiv.textContent = "Error submitting sighting.";
             messageDiv.style.color = "red";
             messageDiv.classList.remove("hidden");
         }
+    // catches errors
     } catch (err) {
         console.error(err);
-        messageDiv.textContent = "⚠ Failed to submit sighting.";
+        messageDiv.textContent = "Failed to submit sighting.";
         messageDiv.style.color = "red";
         messageDiv.classList.remove("hidden");
     }

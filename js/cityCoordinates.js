@@ -1,3 +1,4 @@
+// coordinates of the UK cities in the database
 const cityCoordinates = {
     "Birmingham": [52.4862, -1.8904],
     "Bristol": [51.4545, -2.5879],

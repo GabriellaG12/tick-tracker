@@ -32,6 +32,9 @@ app.post("/api", (req, res) => {
     let sightings = [];
     try { sightings = JSON.parse(data); } catch(e) { sightings = []; }
 
+    const lastId = sightings.length > 0 ? sightings[sightings.length - 1].id || 0 : 0;
+    newSighting.id = lastId + 1;
+    
     sightings.push(newSighting);
 
     fs.writeFile(filePath, JSON.stringify(sightings, null, 2), err => {

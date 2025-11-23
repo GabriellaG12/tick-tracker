@@ -34,7 +34,6 @@
                     <option value="1m">Last Month</option>
                     <option value="1y">Last Year</option>
                     <option value="2y">Last 2 Years</option>
-                    <option value="more">More</option>
                 </select>
             </label>
             <label>
@@ -65,7 +64,7 @@
         <div class="tabs">
             <button class="tab active" data-tab="guide">Species Guide</button>
             <button class="tab" data-tab="prevention">Prevention Tips</button>
-            <button class="tab" data-tab="report">Quick Actions</button>
+            <button class="tab" data-tab="report">Actions</button>
         </div>
 
         <!-- Tab Content -->
@@ -87,31 +86,26 @@
             </ol>
         </div>
 
+        <!-- ACTIONS TAB -->
         <div id="report" class="tab-pane">
-            <h3>Quick Actions</h3>
 
-             <!-- Quick action buttons -->
+            <div style="margin-bottom: 15px;">
+                <button onclick="window.location.href='report.html'" class="big-btn">
+                    Report a Sighting
+                </button>
+            </div>
+
             <div class="quick-actions">
-                <button onclick="alert('Get Directions clicked')">Get Directions</button>
-                <button onclick="alert('Share clicked')">Share</button>
-                <button onclick="window.location.href='report.html'">Report a Sighting</button>
+
+                <button id="open-directions">Get Directions</button>
+
+                <button id="share-btn">Share</button>
             </div>
         </div>
 
-        <!-- DETAILS PANEL -->
-        <div id="details-panel" class="details hidden">
-            <button id="close-details">✕</button>
-            <h2 id="d-city">City</h2>
-            <p><strong>Species:</strong> <span id="d-species"></span></p>
-            <p><strong>Date:</strong> <span id="d-date"></span>
-            <span id="d-recent" class="badge hidden">Recent</span></p>
-            <p><strong>Latin:</strong> <span id="d-latin"></span></p>
-        </div>
 
     </div> <!-- END right panel -->
 </main>
-
-<footer class="site-footer">Built for Elanco placement task</footer>
 
 <!-- Leaflet JS -->
 <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
@@ -123,40 +117,33 @@
 <script src="js/map.js"></script>
 
 <script>
-    // Populate city dropdown in report form
-    const citySelect = document.getElementById("sighting-city");
-    Object.keys(cityCoordinates).forEach(city => {
-        const option = document.createElement("option");
-        option.value = city;
-        option.textContent = city;
-        citySelect.appendChild(option);
-    });
 
-    // Form validation and submission
-    document.getElementById("report-form").addEventListener("submit", function(e) {
-        e.preventDefault();
-        const date = document.getElementById("sighting-date").value;
-        const time = document.getElementById("sighting-time").value;
-        const city = document.getElementById("sighting-city").value;
-        const species = document.getElementById("sighting-species").value;
-        const messageDiv = document.getElementById("form-message");
+/* Share button to mail app */
+document.getElementById("share-btn").addEventListener("click", () => {
+    const subject = encodeURIComponent("Tick Sighting Information");
+    const body = encodeURIComponent("Here is some tick information: ");
 
-        if (!date || !time || !city || !species) {
-            messageDiv.textContent = "⚠ Please fill in all fields.";
-            messageDiv.style.color = "orange";
-            messageDiv.classList.remove("hidden");
-            return;
-        }
+    window.location.href = `mailto:?subject=${subject}&body=${body}`;
+});
 
-        // Here you would normally send data to your database
-        console.log({date, time, city, species});
+/* Direction button */
+function openMapsForCity(cityName) {
+    if (!cityCoordinates[cityName]) {
+        alert("No coordinates found for this city.");
+        return;
+    }
+    const [lat, lon] = cityCoordinates[cityName];
+    window.open(`https://www.google.com/maps?q=${lat},${lon}`, "_blank");
+}
 
-        messageDiv.textContent = "✔ Sighting reported successfully!";
-        messageDiv.style.color = "green";
-        messageDiv.classList.remove("hidden");
+// From ACTIONS tab
+document.getElementById("open-directions").addEventListener("click", () => {
+    const city = window.lastSelectedCity;
+    if (!city) return alert("Select a sighting first from the map or results.");
+    openMapsForCity(city);
+});
 
-        this.reset();
-    });
+
 </script>
 
 </body>

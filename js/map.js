@@ -1,4 +1,4 @@
-// --- Initialize Leaflet Map ---
+// Initialize Leaflet Map 
 const map = L.map('map').setView([54.5, -3], 6);
 L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
@@ -7,19 +7,19 @@ L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
 
 let allMarkers = [];
 let sightings = [];
-let cityFilter = null; // currently selected city
-let filteredCitySeverity = {}; // severity based on species/date filter
+let cityFilter = null; 
+let filteredCitySeverity = {}; 
 
-// --- Severity color based on relative counts ---
+// Severity color based on relative counts
 function getSeverityColor(count, maxCount) {
     if (count >= 0.75 * maxCount) return "red";
     if (count >= 0.25 * maxCount) return "orange";
     return "green";
 }
 
-// --- Load sightings and setup ---
+// Load sightings and setup 
 (async function () {
-    sightings = await window.fetchAllSightings(); // load from localStorage
+    sightings = await window.fetchAllSightings(); 
 
     // Populate species dropdown dynamically
     const speciesSet = new Set(sightings.map(s => s.species));
@@ -45,7 +45,7 @@ function getSeverityColor(count, maxCount) {
     renderMarkersAndResults(sightings);
 })();
 
-// --- Render markers and results ---
+// Render markers and results
 function renderMarkersAndResults(filteredSightings) {
     // Remove old markers
     allMarkers.forEach(marker => map.removeLayer(marker));
@@ -57,7 +57,7 @@ function renderMarkersAndResults(filteredSightings) {
         cityCounts[s.city] = (cityCounts[s.city] || 0) + 1;
     });
 
-    // --- Map markers ---
+    // Map markers
     Object.entries(cityCounts).forEach(([city, count]) => {
         // Use a fixed coordinate if cityCoordinates exists
         const coords = cityCoordinates?.[city] || [54.5, -3]; // fallback if city not in coordinates
@@ -77,13 +77,14 @@ function renderMarkersAndResults(filteredSightings) {
 
         marker.on("click", () => {
             cityFilter = cityFilter === city ? null : city;
+            window.lastSelectedCity = city;
             applyFilters(false);
         });
 
         allMarkers.push(marker);
     });
 
-    // --- Results list ---
+    // Results list
     const resultsList = document.getElementById("results-list");
     resultsList.innerHTML = "";
 
@@ -104,7 +105,7 @@ function renderMarkersAndResults(filteredSightings) {
     });
 }
 
-// --- Recalculate severity based on species/date filter only ---
+// Recalculate severity based on species/date filter only 
 function recalcSeverity(baseSightings) {
     const cityCounts = {};
     baseSightings.forEach(s => {
@@ -118,7 +119,7 @@ function recalcSeverity(baseSightings) {
     }
 }
 
-// --- Filter logic ---
+// Filter logic 
 function applyFilters(recalcSeverityFlag = true) {
     const species = document.getElementById("filter-species").value;
     const severityFilter = document.getElementById("filter-severity").value;
@@ -135,7 +136,6 @@ function applyFilters(recalcSeverityFlag = true) {
             if (dateRange === "1m") keep = keep && (today - sightDate <= 30*24*60*60*1000);
             if (dateRange === "1y") keep = keep && (today - sightDate <= 365*24*60*60*1000);
             if (dateRange === "2y") keep = keep && (today - sightDate <= 2*365*24*60*60*1000);
-            if (dateRange === "more") keep = keep && (today - sightDate > 2*365*24*60*60*1000);
         }
 
         if (cityFilter) keep = keep && (s.city === cityFilter);
@@ -159,7 +159,7 @@ function applyFilters(recalcSeverityFlag = true) {
     renderMarkersAndResults(filtered);
 }
 
-// --- Apply filters button ---
+// Apply filters button 
 document.getElementById("apply-filters").addEventListener("click", () => {
     applyFilters(true);
 });

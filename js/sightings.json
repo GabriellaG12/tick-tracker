@@ -7000,12 +7000,14 @@
     "date": "2012-05-28"
   },
   {
+    "id": 1001,
     "date": "2025-11-13",
     "city": "Birmingham",
     "species": "Passerine tick",
     "latinName": "Dermacentor frontalis"
   },
   {
+    "id": 1002,
     "date": "2025-11-14",
     "city": "London",
     "species": "Fox/badge tick",
