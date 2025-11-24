@@ -4,6 +4,9 @@ A interactive web app to track and visualize tick sightings across the UK. Users
 
 ---
 
+### Project Walkthrough Video
+Unlisted YouTube Link: (https://youtu.be/X0Ts7D5tY7w)
+
 ## Features & Core Requirements
 
 This project implements several core requirements across different areas. Specifically, the following have been completed:
@@ -96,3 +99,4 @@ This project implements several core requirements across different areas. Specif
 - Add user authentication for reporting
 - Add visual charts for sightings over time
 - Allow image uploading
+
