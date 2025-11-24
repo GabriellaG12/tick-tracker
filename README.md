@@ -1,4 +1,4 @@
-# UK Tick Tracker
+# UK Tick Tracker (by Gabriella Garbini)
 
 A interactive web app to track and visualize tick sightings across the UK. Users can view sightings on a map, filter by date, species, and severity, and report new sightings.
 
@@ -99,4 +99,5 @@ This project implements several core requirements across different areas. Specif
 - Add user authentication for reporting
 - Add visual charts for sightings over time
 - Allow image uploading
+
 
